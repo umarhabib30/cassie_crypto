@@ -1,0 +1,1416 @@
+{
+  "walletModal": {
+  "title": "Portemonnee",
+  "titleHistory": "Portemonnee - Geschiedenis",
+  "tabs": {
+  "deposit": "Crypto Storten",
+  "buyCrypto": "Stort BTC met iDEAL of Creditcard",
+  "withdraw": "Opnemen",
+  "promocode": "Promocode"
+  },
+  "historyTabs": {
+  "deposits": "Stortingen",
+  "withdraws": "Opnames"
+  },
+  "buyCryptoInfo": "Voor bedragen boven €60 kunt u betalen met iDEAL of een creditcard. Voor bedragen daaronder is alleen betaling met een creditcard mogelijk. Het BTC-walletadres wordt automatisch ingevuld. Zodra de betaling is voltooid, wordt het bedrag bijgeschreven op uw saldo. Voor vragen of problemen neem gerust contact met ons op. We staan klaar om je te helpen.",
+  "depositInfo": " Dit is je persoonlijke betalingsadres. Alle betalingen worden automatisch aan je saldo toegevoegd. Vertraging kan ontstaan door netwerkdrukte of lage transactiekosten. In sommige gevallen kan het tot 15 minuten extra duren na voltooide betalingen. Voor vragen of problemen neem gerust contact met ons op. We staan klaar om je te helpen.",
+  "enter": "Verzenden",
+  "address": "Stortingsadres",
+  "loading": "Laden...",
+  "copy": "Kopiëren",
+  "amount": "Stortingsbedrag",
+  "withdrawAmount": "Bedrag",
+  "withdrawAddress": "Opnameadres",
+  "creating": "Creëren...",
+  "deposit": "Storten",
+  "withdraw": "Opnemen",
+  "withdrawNotes": {
+  "title": "Instructies voor opname",
+  "1": "Aantal opnames op huidig VIP-niveau: {amount}",
+  "2": "Opnamekosten: {fee}%",
+  "3": "Gratis maandelijks opnamebedrag:",
+  "4": "Minimale opdracht voor opname: {min}",
+  "5": "Maximale opdracht voor opname: {max}",
+  "6": "Afhaaltijd: 11:00 - 19:00",
+  "7": "Betalingstijd: van 5 minuten tot 24 uur."
+  },
+  "status": "Je kunt de status van je stortingen zien in het accountcentrum."
+  },
+  "faucet": {
+  "spin": "<b>Gelukkige Draai</b><span>DRAAI EN KRIJG EEN GRATIS BONUS!</span>",
+  "btn": "Nu Draaien",
+  "timeout": "Kom terug over 8 uur voor een nieuwe kans!"
+  },
+  "userModal": {
+  "joined": "Aangesloten op {date}",
+  "wagered": "Ingezet",
+  "totalGames": "Totaal aantal spellen"
+  },
+  "third-party": {
+  "unavailable_currency": "Sorry, maar je kunt niet spelen met deze valuta.",
+  "guest": "Je moet inloggen om dit spel te spelen."
+  },
+  "vip": {
+  "totalDeposits": "Totaal gestort",
+  "totalWagered": "Totaal ingezet",
+  "logged": {
+  "title": "Je VIP-niveau is",
+  "level": "niveau {level}",
+  "deposit": "Storting",
+  "bet": "Inzet",
+  "description": "Upgraden naar VIP {level} vereist:",
+  "dep": "Storting",
+  "full": "Volledige VIP-bonus",
+  "desc2": "Het VIP-niveausysteem is gemaakt met 10 niveaus, elk met een bijbehorende geldprijs. Hoe meer je speelt, hoe hoger het VIP-niveau en hoe meer je zult ontvangen.",
+  "totalBet": "Geaccumuleerd Inzetbedrag",
+  "totalDeposit": "Geaccumuleerd Stortingsbedrag",
+  "steps": {
+  "1": "Plaats een inzet op een spel en de engine berekent automatisch de retourwaarde op basis van je VIP-niveau terwijl je van het spel geniet.",
+  "2": "Het cashback-mechanisme wordt afgerekend op je accountbalans om 0:00 op basis van je gedurende de dag geplaatste inzetten.",
+  "3": "Hoe meer je speelt, hoe hoger je geld terug."
+  }
+  },
+  "title": "Veel voordelen met",
+  "title2": "Rangsysteem",
+  "benefits": {
+  "1": {
+  "title": "Niveaus & Beloningen",
+  "description": "Hoe meer je speelt - hoe meer je wint"
+  },
+  "3": {
+  "title": "EXCLUSIEVE PROMOTIES",
+  "description": "Bereik een hogere rang om unieke voordelen te ontgrendelen"
+  },
+  "4": {
+  "title": "VIP-CLUB",
+  "description": "Word lid van de VIP-club en krijg exclusieve bonussen"
+  }
+  },
+  "how": {
+  "1": "Hoe werkt het?",
+  "2": "Je begint je game-weg vanaf de 1e rang. Hoe meer je speelt, hoe hoger je rang is. Het stijgt op basis van het ingezette bedrag tijdens het spelen."
+  },
+  "youCanReach": {
+  "1": "JE KUNT 10 NIVEAUS BEREIKEN",
+  "2": "Bereik het hoogste niveau om alle voordelen van het platform te openen. Blijf bij ons voor de beste game-ervaring en uitstekende service."
+  },
+  "allLevels": {
+  "levelProtection": "Niveau-bescherming",
+  "levelProtectionDeposit": "Storting {amount}/maand",
+  "level": "Niveau {level}",
+  "oneTimeBonus": "Eenmalige Bonus",
+  "maxWithdrawal": "Maximaal opnamebedrag",
+  "privileges": "Opnameprivileges",
+  "withdraws": "Opnames",
+  "fee": "Opnamekosten",
+  "depositFeeRef": "Verwijzingsstortingskosten",
+  "claim": "Bonus Claimen",
+  "yourLevel": "Jouw Niveau",
+  "about": {
+  "title": "OVER VIP-CLUB",
+  "description": "Blijf bij ons voor de beste game-ervaring en een hoog serviceniveau!",
+  "sub": "Lid zijn van de VIP-club betekent dat je toegang hebt tot:",
+  "features": {
+  "1": "Persoonlijke VIP-manager",
+  "2": "Inzichten",
+  "4": "Wekelijkse en maandelijkse bonussen",
+  "5": "Andere aanvullende voordelen"
+  }
+  }
+  },
+  "steps": {
+  "playNow": "Speel Nu",
+  "1": {
+  "title": "INLOGGEN",
+  "description": "Gebruik een vereenvoudigd aanmeldingssysteem om van alle game-ervaring te genieten"
+  },
+  "2": {
+  "title": "SPEEL FAVORIETE SPELLEN",
+  "description": "Geniet van het spelen, krijg de beste game-ervaring en een hoog serviceniveau!"
+  },
+  "3": {
+  "title": "VERHOOG JE RANG",
+  "description": "Ga naar de volgende rang! Elke rang heeft zijn bonus en nog meer mogelijkheden!"
+  }
+  }
+  },
+  "bonus": {
+  "no_vk": "Koppel VK-account om een gratis bonus te ontvangen!",
+  "link": "Koppelen",
+  "join_group": "Word lid van onze VK-groep om een gratis bonus te ontvangen!",
+  "join": "Word lid",
+  "lucky_spin_everyday": "Gelukkige Draai Elke Dag",
+  "have_a_try": "Probeer het nu",
+  "spin_now": "Nu Draaien",
+  "next_spin": "Volgende Draai: ",
+  "vip": {
+  "title": "VIP",
+  "unavailable_description": "Alle deelnemers aan het VIP-programma hebben recht op een wekelijkse bonus."
+  },
+  "wheel": {
+  "description": "Draai het wiel elke 3 minuten voor een gratis bonus!",
+  "title": "Wiel"
+  },
+  "promo": {
+  "description": "Heb je een promocode? Wissel het in en krijg een bonus!",
+  "activate": "Activeren",
+  "title": "Promocode",
+  "placeholder": "Code",
+  "success": "Succes",
+  "invalid": "Ongeldige code",
+  "expired_time": "Ongeldige code.",
+  "expired_usages": "Ongeldige code: activeringslimiet overschreden.",
+  "used": "Je hebt deze code al gebruikt."
+  },
+  "partner": {
+  "title": "Affiliate programma",
+  "description": "Nodig je vrienden uit voor cassie.bet en krijg een bonus voor 10 actieve verwijzingen!"
+  },
+  "rain": {
+  "description": "Elke paar uur vindt er in de chat een evenement plaats dat een bonus uitdeelt aan willekeurige mensen.",
+  "title": "Regen",
+  "modal_description": "Regen is een chatbot die munten uitdeelt aan willekeurige mensen. <br> Criteria om in de regen te komen:<ul class=\"mt-2\"><li>Storting is vereist in de laatste 24 uur</li><li>De bot stuurt een willekeurig aantal munten op een willekeurig tijdstip (het minimum aantal distributies is 10 per dag, het maximum is 20)</li><li>Aantal mensen - van 5 tot 15</li></ul>"
+  },
+  "discord": {
+  "title": "Discord",
+  "common_desc": "Word lid van onze Discord-server en krijg een bonus!",
+  "description": "Word lid van onze Discord-server en krijg een bonus!",
+  "redirect": "Account koppelen",
+  "link": "Om een bonus te ontvangen, moet je:<ul><li>Je Discord-account koppelen</li><li>Word lid van onze Discord-server</li></ul>Na het koppelen van je Discord-account en het joinen van de server, keer terug naar deze pagina en klik op de \"Verifiëren\"-knop.",
+  "subscribe": "Word lid van onze Discord-server om een bonus te ontvangen.<br>Na het joinen, klik op de \"Verifiëren\"-knop en de bonus wordt direct bijgeschreven!",
+  "check": "Verifiëren",
+  "redirect_group": "Word lid van onze Discord-server",
+  "success": "Succes!",
+  "error": {
+  "1": "Je hebt onze Discord-server niet gejoined.",
+  "2": "Je hebt deze bonus al ontvangen."
+  }
+},
+"notifications": {
+  "title": "Meldingen",
+  "description": "Zet meldingen aan en wees als een van de eersten op de hoogte van updates van cassie.bet!"
+}
+},
+"chat": {
+"service": {
+"channel_change": "Kanaal gewijzigd naar: {channel}",
+"channel_casino": "Casino ({lang})",
+"channel_sport": "Sport ({lang})",
+"channel_esport": "eSport ({lang})"
+},
+"error": {
+"length": "Bericht is te kort of te lang",
+"muted": "Chat is gedempt"
+}
+},
+"dice": {
+"lower": "Lager",
+"higher": "Hoger",
+"chance": "Kans"
+},
+"error": {
+"code": "Interne serverfout opgetreden ({code})",
+"wait_finish": "Wacht tot het spel is afgelopen",
+"validation": {
+"required": "Vul dit veld in",
+"min": {
+"string": "Waarde is te klein"
+},
+"max": {
+"string": "Waarde is te groot"
+},
+"unique": "Deze waarde is al geregistreerd",
+"regex": "Ongeldige waarde"
+},
+"invalid_browser": "<h1>Je webbrowser is verouderd.</h1>Om op cassie.bet te spelen, moet je upgraden naar de nieuwste versie.",
+"no_js": "<h1>Fout</h1>Je webbrowser ondersteunt geen JavaScript."
+},
+"fairness": {
+"title": "Eerlijkheid",
+"tabs": {
+"calculator": "Rekenmachine"
+},
+"calculator": {
+"game": "Spel",
+"client_seed": "Client seed",
+"nonce": "Nonce",
+"server_seed": "Server seed",
+"result": "Resultaat"
+}
+},
+"game_help": {
+"next": "Volgende",
+"close": "Sluiten",
+"dice": {
+"1": "Stel de schuifregelaar voor de kans op winst in en klik op \"Spelen\", om een resultaat te genereren van 0 - 100",
+"2": "Als de dobbelstenen in jouw gekozen groene zone vallen, win je!"
+},
+"wheel": {
+"1": "Selecteer een spelmodus, wed op kleur en druk op \"Spelen\"",
+"2": "Als het wiel stopt op het kleurvak dat je hebt gekozen, win je!"
+},
+"x50": {
+"1": "Selecteer een spelmodus, wed op kleur en druk op \"Spelen\"",
+"2": "Als het wiel stopt op het kleurvak dat je hebt gekozen, win je!"
+},
+"plinko": {
+"1": "Plaats een weddenschap, selecteer de moeilijkheidsgraad van het spel en het aantal pinnen, en klik op \"Spelen\"",
+"2": "Hoe complexer het spel en het aantal pinnen, hoe hoger de maximale en lagere minimale winstkansen",
+"3": "Je beloning wordt bepaald door de winstverhouding, afhankelijk van waar de bal valt"
+},
+"keno": {
+"1": "Kies 1 tot 10 cellen met getallen, plaats een weddenschap en klik op \"Spelen\"",
+"2": "Vervolgens selecteert het systeem willekeurig 10 getallen. Hoe meer treffers op jouw getallen, hoe groter de winst!"
+},
+"mines": {
+"1": "Plaats een weddenschap, selecteer het aantal bommen en klik op \"Spelen\"",
+"2": "Hoe meer bommen op het speelveld, hoe hoger de winstverhouding.",
+"3": "Zoek naar stenen, maar pas op voor bommen!",
+"4": "Neem een ​​winst voordat je ontploft op een bom en verlies een weddenschap!"
+},
+"diamonds": {
+"1": "Krijg de beste diamantcombinatie om te winnen.",
+"2": "De beste combinatie is 5 identieke diamanten.",
+"3": "De combinatiehiërarchie is vergelijkbaar met traditioneel poker."
+},
+"coinflip": {
+"1": "Plaats een weddenschap en klik op \"Spelen\" en raad welke kleur zal vallen.",
+"2": "Je kunt een munt een onbeperkt aantal keren raden per spel, alle coëfficiënten worden bij elkaar opgeteld."
+},
+"blackjack": {
+"1": "Plaats een weddenschap, waarna jij en de dealer twee kaarten krijgen uitgedeeld.",
+"2": "Vervolgens kun je nog een kaart nemen of stoppen en je huidige hand niet veranderen.",
+"3": "Door op \"Dubbel\" te klikken, verdubbel je je inzet en neem je de laatste kaart.",
+"4": "Verzekering is alleen beschikbaar wanneer de eerste kaart van de dealer een aas is en beschermt je tegen de handen van een dealer met blackjack.",
+"5": "De winnaar is degene die het dichtst bij 21 is. Als jij en de dealer dezelfde waarde hebben, eindigt het in een gelijkspel."
+},
+"roulette": {
+"1": "Plaats chips op een willekeurige uitkomst van het spel en klik op \"Spelen\"",
+"2": "Als je de uitkomst van het spel goed hebt geraden, vermenigvuldig je je inzet."
+},
+"baccarat": {
+"1": "Je kunt wedden op de overwinning van een speler, bankier of een gelijkspel, zowel afzonderlijk als in elke combinatie.",
+"2": "De overwinning wordt behaald door de partij met de meeste punten dicht bij 9. Bij een waarde van 10 of meer wordt alleen de tweede cijfer van het tweecijferige getal in aanmerking genomen.",
+"3": "Als bij een individuele weddenschap op een speler of een bankier beide partijen dezelfde hoeveelheid punten behalen, is het resultaat een gelijkspel zonder verlies van een weddenschap.",
+"4": "De maximale deal in één hand is 3 kaarten. Het minimum is 2 als hun totale punten 5 of meer zijn."
+},
+"hilo": {
+"1": "Raad of de volgende kaart hoger of lager zal zijn dan de vorige qua rang.",
+"2": "Open een onbeperkt aantal kaarten, kansen worden opgeteld. Je kunt op elk moment stoppen en je winst ophalen"
+},
+"limbo": {
+"1": "Om te winnen, moet de opgegeven doeluitbetaling lager zijn dan degene die in het spel viel.",
+"2": "Het maximale doelratio is 1.000.000."
+},
+"crash": {
+"1": "Doe een weddenschap, klik op \"Spelen\" en kijk hoe het schema groeit",
+"2": "Haal fondsen op voordat het diagram instort en je je inzet verliest."
+},
+"stairs": {
+"1": "Doe een weddenschap, selecteer het aantal stenen per zet en klik op \"Spelen\"",
+"2": "Klim de trap op, wees voorzichtig met vallende stenen! Hoe hoger je stijgt, hoe groter de beloning die je zult ontvangen.",
+"3": "Je kunt op elk moment winst pakken of alle 13 zetten doorlopen en de maximale beloning krijgen."
+},
+"tower": {
+"1": "Plaats een weddenschap, selecteer het aantal bommen en klik op \"Spelen\"",
+"2": "Zoek naar stenen die van boven naar beneden bewegen, maar pas op voor bommen!",
+"3": "Neem een winst voordat je ontploft op een bom en verlies een weddenschap!"
+},
+"videopoker": {
+"1": "Plaats een weddenschap en klik op \"Spelen\"",
+"2": "Vervolgens krijg je 5 kaarten gedeeld. Je kunt de kaarten die je nodig hebt achterlaten door erop te klikken. Om het spel te beëindigen, klik op \"Kaarten delen\" ",
+"3": "Als de combinatie hetzelfde is als getoond in de tabel, win je en vermenigvuldig je je inzet."
+},
+"bullvsbear": {
+"1": "Elk spel begint met het bepalen van wat de 'Strike Price' van het spel zal zijn door het gemiddelde van de geselecteerde munt te nemen. We gebruiken geen prijsorakel, maar halen de marktprijs rechtstreeks op uit de Coinbase Price Websocket API. Dit nummer is wat handelaren zullen gebruiken om tegen te wedden in de volgende fase om te voorspellen of de marktprijs aan het einde van elk spel boven of onder de 'Strike Price' van het spel zal zijn.",
+"2": "Zodra de 'Strike Price' van het spel is ingesteld, hebben spelers één minuut de tijd om te wedden of de marktprijs aan het einde van elk spel boven of onder dit nummer zal zijn. Alle weddenschappen worden in twee zwembaden geplaatst, degenen die voorspellen dat de prijs boven zal zijn, en degenen die voorspellen dat de prijs onder zal zijn.",
+"3": "Aan het einde van elk spel worden de verliezende weddenschappen verzameld en proportioneel verdeeld onder de winnaars. Als een speler meer wedt dan de andere winnaars, ontvangt hij of zij meer van het zwembad. Als een speler verliest, zijn hun verliezen ook evenredig met de grootte van hun inzet, wat betekent dat als een speler meer wedt dan de andere spelers, hij in deze situatie niet zijn hele inzet verliest, maar slechts een fractie.",
+"4": "We wilden vermijden dat laatkomers enig significant voordeel zouden hebben, vandaar dat we een tijdsafnemende winstfactor hebben geïmplementeerd om prompt wedden te stimuleren - vroege weddenschappers betere winsten (of winsten) te geven en mensen ontmoedigen om laat in de ronde te wedden. Als handelaar kun je letten op de huidige volatiliteit en je weddenschap plaatsen door iets langer te wachten en minder winst te maken, maar met een hogere waarschijnlijkheid, of alternatief, vroeg wedden met een hoger potentieel rendement maar lagere kans om het spel te winnen.",
+"5": "Elke inzetronde duurt 90 seconden en begint met een uitbetaling van x5.00. Het neemt af na verloop van tijd totdat het x1.01 wordt."
+}
+},
+"footer": {
+"affiliates": "Affiliates",
+"features": {
+"title": "Functies",
+"affiliates": "Affiliates",
+"referral": "Referral",
+"promotions": "Promoties",
+"daily": "Dagelijkse Bonussen",
+"sport": "Sport",
+"liveSport": "Live Sport",
+"more": "Meer",
+"fairness": "Eerlijkheid",
+"privacy": "Privacybeleid",
+"terms": "Servicevoorwaarden",
+"support": "Live Ondersteuning"
+},
+"legal": "Deze website biedt gokervaringen met risico's. Om gebruiker van onze site te zijn, moet je ouder zijn dan 18 jaar. Wij zijn niet verantwoordelijk voor schendingen van lokale wetten met betrekking tot i-gaming. Speel verantwoord en geniet van cassie.bet.",
+"copy": "Dit online casino wordt beheerd door CASSIE.BET N.V., opgericht onder de wetten van Curaçao met registratienummer 160102 en geregistreerd op Scharlooweg 39, Willemstad, Curaçao. CASSIE.BET N.V. is gelicenseerd en gereguleerd door de Curacao Gaming Authority onder licentienummer 365/JAZ, sub-licentie GLH-OCCHKTW0703232022 uitgegeven aan Curaçao eGaming, geautoriseerd en gereguleerd door de overheid van Curaçao. Het is de enige verantwoordelijkheid van de speler om informatie in te winnen over de geldende wetten en voorschriften van de betreffende jurisdictie voor online gokken. Voor meer informatie kunt u contact opnemen met @Athenian op Telegram."
+},
+
+
+
+
+
+
+
+"promotions": {
+  "vip": {
+    "title": "<span>Exclusieve</span> VIP-bonus",
+    "description": "Als dank aan alle cassie.bet-gebruikers is het VIP-beloningssysteem nu geopend. Zolang je aan de vereisten voldoet, kun je genereuze bonussen ontvangen!",
+    "activity": "<span>Activiteit</span> Vereisten",
+    "activity2": "Spelers die upgraden naar een nieuw VIP-niveau krijgen een gratis bonus, zonder opnamevereisten.",
+    "bonus": "Evenementbonus",
+    "bonus2": "Spelers kunnen bijbehorende beloningen ontvangen wanneer ze het VIP-niveau bereiken.",
+    "vip": "VIP",
+    "vip2": "VIP {level}",
+    "reminder": {
+      "1": "Speciale Herinnering",
+      "2": "Elke speler kan de bijbehorende bonus ontvangen voor elke upgrade, en de bonus kan worden overschreven."
+    },
+    "reminder2": {
+      "1": "<span>Gedetailleerde</span> Beschrijving",
+      "2": "Zorg voor de nauwkeurigheid en uniciteit van je naam, contactgegevens en CPF. Als dezelfde speler verschillende netwerk-IP's gebruikt om meerdere accounts te registreren en bonussen te ontvangen, wordt dit beschouwd als valsspelen en wordt je account permanent bevroren."
+    },
+    "reminder3": {
+      "1": "<span>Instructies</span> voor deelname aan het evenement:",
+      "2": "Vanaf de dag van de aankondiging van het evenement kun je alleen de bonus krijgen als je je VIP-niveau upgrade."
+    }
+  },
+  "invite": {
+    "title": "<span>Nodig</span> Vrienden uit om Samen Rijkdom te Creëren",
+    "description": "Word een van onze top partners en behaal een maandelijks inkomen van €100.000",
+    "desc": "Verwijzingsprogramma",
+    "desc2": "Laat de wereld kennismaken met cassie.bet - verwijs meer mensen en verdien veel geld, met meer kans om je inkomen aan te vullen.",
+    "code": "Krijg een Unieke Verwijzingscode",
+    "copy": "Kopieer Code",
+    "1": "Als je een blogger of influencer bent met een groot publiek en volgers, hebben we speciale beloningen voor jou! (Affiliate-programma met de hoogste verwijzingsbeloningen)",
+    "2": "Belangrijke opmerking: Alleen gebruikers die het verzoek van de beheerder hebben doorstaan en zijn goedgekeurd, kunnen deelnemen aan het programma",
+    "consult": "Advies",
+    "invited": "Uitgenodigd:",
+    "totalBet": "Totale Inzet:",
+    "totalDeposit": "Totale Storting:"
+  },
+  "benefits": {
+    "title": "<span>Miljoenen</span> Distributeur Voordelen",
+    "description": "Om alle cassie.bet-gebruikers aan te moedigen, worden er miljoenen voordelen aangeboden aan competente agenten die aan de vereisten voldoen om een royale bonus te ontvangen.",
+    "activity": {
+      "1": "Activiteit Vereisten",
+      "2": "Agenten die nieuwe gebruikers uitnodigen met een geldige storting, ontvangen een superbonus voor de uitnodiging."
+    },
+    "bonus": {
+      "1": "Evenementbonus",
+      "2": "Agenten kunnen ook aanvullende beloningen ontvangen voor het bereiken van verschillende verwijzingsniveaus."
+    },
+    "table": {
+      "title": "Prestatiebonus",
+      "active": "Actieve Gebruikers",
+      "bonus": "Prestatiebonus",
+      "desc": "<span>Actieve gebruikers:</span> geregistreerd via jouw uitnodigingslink en gestort. Wanneer je het vereiste aantal actieve gebruikers bereikt, ontvang je een extra bonus. Hoe meer gasten je hebt, hoe groter de bonus.",
+      "reminder": {
+        "1": "Speciale Herinnering",
+        "2": "Zonder opnamevereisten geldt: hoe meer gebruikers agenten uitnodigen en herladen, hoe hoger de rang en hoe groter de voordelen."
+      },
+      "details": {
+        "1": "Details",
+        "2": "Zorg voor de nauwkeurigheid en uniciteit van je naam, uniek CPF. Als dezelfde makelaar verschillende netwerk-IP's gebruikt om meerdere accounts te registreren en bonussen te ontvangen, wordt dit beschouwd als fraude en wordt je account permanent bevroren."
+      }
+    },
+    "guide": {
+      "1": "INSTRUCTIES VOOR DEELNAME AAN HET EVENEMENT",
+      "2": "Vanaf de aankondigingsdatum tot de uitreiking van de prijs van één miljoen reais aan bonussen. De officiële campagneregels liggen volledig in handen van cassie.bet."
+    }
+  },
+  "bonus50": {
+    "title": "<span>Kom</span> en krijg 50% bonus!",
+    "description": "Om je te bedanken voor je vertrouwen en steun in cassie.bet, geeft cassie.bet je een gratis bonus van 50% van het bedrag van je eerste succesvolle storting van meer dan €100. Ik wens je oprecht om meer te verdienen! Je bonus wordt automatisch bijgeschreven op je account bij het storten, dus controleer het systeem op berichten die naar je zijn verzonden.",
+    "title2": "Vereisten en bonus",
+    "limit": {
+      "1": "Stortingslimiet",
+      "2": "€100 OF MEER"
+    },
+    "bonus": {
+      "1": "Bonus",
+      "2": "50% van het stortingsbedrag"
+    },
+    "rules": "Regels",
+    "list": {
+      "1": "Alleen de eerste bestelling met een stortingsbedrag van €100 of meer kan deelnemen aan dit evenement, en dit evenement kan slechts één keer worden bijgewoond.",
+      "2": "Opnamevoorwaarden: het effectieve inzetbedrag is gelijk aan of groter dan 20 keer of meer van het totaal van het stortingsbedrag en het bonusbedrag.",
+      "3": "Na het voltooien van de storting en het indienen van de aanvraag in het persoonlijke promotiecentrum, ontvang je de geluksbonus van cassie.bet en de bonussen kunnen worden gespeeld en opgenomen!",
+      "4": "Zorg ervoor dat je naam, contactgegevens en burgerservicenummer nauwkeurig en uniek zijn. Als dezelfde speler verschillende netwerk-IP's gebruikt om meerdere accounts te registreren en de prijs te claimen, wordt dit beschouwd als valsspelen en wordt hun account permanent bevroren."
+    }
+  }
+},
+"general": {
+  "popular": "Populair",
+  "viewAll": "Alles Bekijken",
+  "search": "Zoeken...",
+  "providers": "Spelaanbieders",
+  "go_to_casino": "Ga naar Casino",
+  "go_to_sport": "Ga naar Sport",
+  "deposit_btn": "Storten",
+  "casino_desc": "Welkom bij cassie.bet. 17 spellen voor jouw plezier en winst.",
+  "slowmode": "Langzame modus is ingeschakeld: 1 bericht per 5 seconden",
+  "nocrypto": "Geen Crypto? Geen Probleem! Koop Nu en Speel Direct!",
+  "buy_now": "Koop nu",
+  "recommended_games": "Aanbevolen Spellen",
+  "all_slots": "Alle Gokkasten",
+  "all_live": "Alle Live Spellen",
+  "all_originals": "Alle Klassieke Spellen",
+  "provider_games": "Alle Spellen en Providers",
+  "banner_card": {
+      "welcome_title": "Welkomstbonus",
+      "welcome_subtitle": "Stort €100 in crypto en ontvang je €250 welkomstbonus direct!",
+      "no_verification_title": "Geen ID-verificatie",
+      "no_verification_subtitle": "Speel anoniem zonder ID-verificatie en geniet van de voordelen van verbeterde privacy en volledige discretie.",
+      "fast_payouts_title": "Snelle opnames en uitbetalingen",
+      "fast_payouts_subtitle": "Ontvang je winsten razendsnel met onze snelle opnames en uitbetalingen, zonder extra kosten."
+  },
+  "slider": {
+    "slider_terms": "Lees de voorwaarden",
+    "slider_guest_btn": "Registreer & Ontvang €250",
+    "slider_user_btn": "Stort €100 & Ontvang Direct €250 Bonus",
+    "slider_1_title": "Claim Jouw €250 Welkomstbonus Nu!",
+    "slider_1_desc": "Begin met een welkomstbonus van €250 bij je eerste €100 aan crypto stortingen, die direct aan je saldo wordt toegevoegd!",
+    "slider_2_title": "Zet in op meer geluk en opwinding bij CASSIE.BET!",
+    "slider_2_desc": "Met ons uitgebreide assortiment aan spellen en een levendige community, bieden we je een platform vol geluk en opwinding. Waag vandaag nog je kans en ontdek waarom geluk altijd aan jouw zijde staat bij CASSIE.BET!",
+    "slider_3_title": "Ontdek ongeëvenaarde winstkansen met ons hoge RTP! ",
+    "slider_3_desc": "Bij ons draait alles om eerlijkheid en transparantie. Ontdek onze spellen met een hoog Return to Player (RTP) percentage, waardoor je meer kans hebt om te winnen bij elke draai of inzet!",
+    "slider_4_title": "Geniet van onze uitgebreide selectie van casinospellen! ",
+    "slider_4_desc": "Ontdek honderden spannende casinospellen, waaronder slots, roulette en meer!"
+  },
+  "promotions": {
+    "title": "cassie.bet Promoties",
+    "faucet": {
+      "title": "Kraan",
+      "description": "Ontvang gratis bonus om op cassie.bet te spelen!",
+      "btn": "Bekijk"
+    },
+    "promo": {
+      "title": "Promocode",
+      "description": "Voer de promocode in om een gratis bonus te ontvangen!",
+      "btn": "Bekijk"
+    },
+    "vip": {
+      "title": "cassie.bet VIP",
+      "description": "Word VIP-niveau gewoon door op cassie.bet te spelen.",
+      "btn": "Bekijk"
+    },
+    "rain": {
+      "title": "Regen",
+      "description": "Als je een storting doet met elk bedrag aan fondsen, maak je kans om binnen 24 uur een bonus te ontvangen.",
+      "btn": "Lees meer"
+    },
+    "notification": {
+      "title": "Discord",
+      "description": "Doe mee met onze Discord-server en ontvang een bonus!",
+      "btn": "Doe mee"
+    },
+    "affiliates": {
+      "title": "Affiliates",
+      "description": "Adverteer cassie.bet bij je vrienden om beloningen te ontvangen (voor jou en je vrienden!).",
+      "btn": "Bekijk"
+    }
+    },
+    "privacy_policy": {
+      "title": "Privacybeleid",
+      "introduction": "Welkom bij CASSIE.BET. Wij hechten veel waarde aan de privacy van onze gebruikers en zetten ons in om uw persoonlijke gegevens te beschermen. Dit privacybeleid legt uit hoe wij uw gegevens verzamelen, gebruiken, opslaan en beschermen wanneer u onze diensten gebruikt.",
+      "sections": {
+        "data_collection": {
+          "title": "1. Verzameling van Gegevens",
+          "description": "Wij verzamelen verschillende soorten gegevens om onze diensten te leveren en te verbeteren:",
+          "items": {
+            "personal_data": {
+              "title": "Persoonlijke gegevens",
+              "description": "Informatie die u verstrekt bij het registreren van een account, zoals naam, e-mailadres, geboortedatum, en adres."
+            },
+            "transaction_data": {
+              "title": "Transactiegegevens",
+              "description": "Gegevens over de stortingen en opnames die u doet via ons platform."
+            },
+            "technical_data": {
+              "title": "Technische gegevens",
+              "description": "Informatie zoals IP-adres, browsertype, en apparaatidentificatie die automatisch wordt verzameld wanneer u onze website bezoekt."
+            }
+          }
+        },
+        "data_use": {
+          "title": "2. Gebruik van Gegevens",
+          "description": "Wij gebruiken uw gegevens om:",
+          "items": [
+            "Uw account te beheren en onze diensten te leveren.",
+            "Transacties te verwerken en te beveiligen.",
+            "Onze website en diensten te verbeteren.",
+            "Wettelijke verplichtingen na te komen.",
+            "Communicatie met u te onderhouden, inclusief het verzenden van promoties en updates."
+          ]
+        },
+        "data_protection": {
+          "title": "3. Bescherming van Gegevens",
+          "description": "Wij nemen passende technische en organisatorische maatregelen om uw persoonlijke gegevens te beschermen tegen ongeautoriseerde toegang, verlies, of misbruik. Deze maatregelen omvatten versleuteling van gevoelige gegevens en beveiligde opslagoplossingen."
+        },
+        "data_sharing": {
+          "title": "4. Delen van Gegevens",
+          "description": "Wij delen uw persoonlijke gegevens niet met derden, behalve:",
+          "items": [
+            "Wanneer dit noodzakelijk is voor het leveren van onze diensten (bijv. betalingsverwerkers).",
+            "Om te voldoen aan wettelijke verplichtingen.",
+            "Met uw toestemming."
+          ]
+        },
+        "your_rights": {
+          "title": "5. Uw Rechten",
+          "description": "U heeft het recht om:",
+          "items": [
+            "Toegang te vragen tot uw persoonlijke gegevens.",
+            "Onjuiste of onvolledige gegevens te laten corrigeren.",
+            "Verwijdering van uw gegevens te verzoeken, onder bepaalde voorwaarden.",
+            "Bezwaar te maken tegen de verwerking van uw gegevens."
+          ]
+        },
+        "cookies": {
+          "title": "6. Cookies",
+          "description": "Onze website maakt gebruik van cookies om uw ervaring te verbeteren. Cookies zijn kleine tekstbestanden die op uw apparaat worden opgeslagen. U kunt uw browserinstellingen aanpassen om cookies te weigeren, maar dit kan de functionaliteit van onze website beïnvloeden."
+        },
+        "policy_changes": {
+          "title": "7. Wijzigingen in het Privacybeleid",
+          "description": "Wij behouden ons het recht voor om dit privacybeleid op elk moment te wijzigen. Wij zullen u op de hoogte brengen van wezenlijke wijzigingen door een bericht op onze website te plaatsen of via andere communicatiemiddelen."
+        },
+        "contact": {
+          "title": "8. Contact",
+          "description": "Als u vragen heeft over dit privacybeleid of uw gegevens wilt beheren, neem dan contact met ons op via @Athenian op Telegram."
+        }
+      }
+    },
+    "welcome_bonus": {
+      "title": "Voorwaarden voor de €250 Welkomstbonus",
+      "conditions": [
+        "Om in aanmerking te komen voor de €250 welkomstbonus, moet je een minimale storting van €100 doen.",
+        "De bonus wordt automatisch aan je saldo toegevoegd zodra de storting is voltooid. Let op: de €250 bonus is alleen speelgeld en kan niet direct worden opgenomen.",
+        "Deze bonus is beperkt tot één per persoon, huishouden, IP-adres en e-mailadres.",
+        "De welkomstbonus kan niet gecombineerd worden met andere promoties.",
+        "Er kunnen inzetvereisten van toepassing zijn voordat winsten uit de bonus kunnen worden opgenomen. Raadpleeg onze algemene voorwaarden voor meer informatie hierover.",
+        "Het casino behoudt zich het recht voor om deze promotie op elk moment te wijzigen of in te trekken zonder voorafgaande kennisgeving."
+      ]
+    },
+    "terms_and_conditions": {
+      "title": "Algemene Voorwaarden",
+      "introduction": "Welkom bij CASSIE.BET. Deze algemene voorwaarden ('Voorwaarden') zijn van toepassing op uw gebruik van onze website en diensten. Door een account aan te maken en gebruik te maken van onze diensten, stemt u in met deze Voorwaarden. Lees deze zorgvuldig door.",
+      "sections": {
+        "acceptance_of_terms": {
+          "title": "1. Aanvaarding van Voorwaarden",
+          "description": "Door een account aan te maken bij CASSIE.BET, gaat u akkoord met deze Voorwaarden en bevestigt u dat u ouder bent dan 18 jaar (of de wettelijke leeftijd in uw rechtsgebied)."
+        },
+        "account_registration": {
+          "title": "2. Accountregistratie",
+          "description": "U moet nauwkeurige en volledige informatie verstrekken bij de registratie van een account. U bent verantwoordelijk voor het handhaven van de vertrouwelijkheid van uw accountgegevens en alle activiteiten die plaatsvinden onder uw account."
+        },
+        "use_of_website": {
+          "title": "3. Gebruik van de Website",
+          "description": "U stemt ermee in de website alleen te gebruiken voor legale doeleinden en in overeenstemming met deze Voorwaarden. Het is verboden de website te gebruiken voor frauduleuze of illegale activiteiten."
+        },
+        "deposits_and_withdrawals": {
+          "title": "4. Stortingen en Opnames",
+          "description": "Alle stortingen en opnames moeten worden gedaan in de beschikbare cryptocurrencies op onze website. CASSIE.BET is niet verantwoordelijk voor verlies of schade als gevolg van wisselkoersschommelingen."
+        },
+        "bonuses_and_promotions": {
+          "title": "5. Bonussen en Promoties",
+          "description": "Alle bonussen en promoties zijn onderworpen aan specifieke voorwaarden die worden beschreven op de promotiepagina's. CASSIE.BET behoudt zich het recht voor om bonussen en promoties te wijzigen of in te trekken zonder voorafgaande kennisgeving."
+        },
+        "wagering_requirements": {
+          "title": "6. Inzetvereisten",
+          "description": "Er kunnen inzetvereisten van toepassing zijn op bepaalde bonussen. Deze vereisten moeten worden voldaan voordat winsten kunnen worden opgenomen. Raadpleeg de promotiepagina's voor specifieke details."
+        },
+        "responsible_gambling": {
+          "title": "7. Verantwoord Gokken",
+          "description": "Wij moedigen verantwoord gokken aan. Als u hulp nodig heeft bij het beheersen van uw gokgedrag, neem dan contact op met onze klantenservice voor ondersteuning en informatie over zelfuitsluiting en andere hulpbronnen."
+        },
+        "intellectual_property": {
+          "title": "8. Intellectuele Eigendom",
+          "description": "Alle inhoud op de website, inclusief maar niet beperkt tot teksten, afbeeldingen, logo's en software, is eigendom van CASSIE.BET en beschermd door auteursrecht en andere intellectuele eigendomsrechten. U mag deze inhoud niet kopiëren, verspreiden of wijzigen zonder onze uitdrukkelijke toestemming."
+        },
+        "limitation_of_liability": {
+          "title": "9. Beperking van Aansprakelijkheid",
+          "description": "CASSIE.BET is niet aansprakelijk voor enige directe, indirecte, incidentele of gevolgschade die voortvloeit uit uw gebruik van de website of diensten. Wij bieden onze diensten 'zoals ze zijn' en geven geen garanties van welke aard dan ook."
+        },
+        "changes_to_terms": {
+          "title": "10. Wijzigingen in de Voorwaarden",
+          "description": "Wij behouden ons het recht voor om deze Voorwaarden op elk moment te wijzigen. Wij zullen u op de hoogte brengen van wezenlijke wijzigingen door een bericht op onze website te plaatsen of via andere communicatiemiddelen. Door onze diensten te blijven gebruiken, stemt u in met de gewijzigde Voorwaarden."
+        },
+        "termination": {
+          "title": "11. Beëindiging",
+          "description": "Wij behouden ons het recht voor om uw account op te schorten of te beëindigen als u deze Voorwaarden schendt of betrokken bent bij frauduleuze of illegale activiteiten."
+        },
+        "governing_law": {
+          "title": "12. Toepasselijk Recht",
+          "description": "Deze Voorwaarden worden beheerst door en geïnterpreteerd in overeenstemming met de wetten van [jurisdictie]. Geschillen zullen worden voorgelegd aan de bevoegde rechtbanken in [jurisdictie]."
+        },
+        "contact": {
+          "title": "Contact",
+          "description": "Als u vragen heeft over deze voorwaarden, neem dan contact met ons op via @Athenian op Telegram."
+        }
+      }
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "head": {
+    "index": "Thuis",
+    "description": "Online gokken met bonussen voor nieuwe spelers",
+    "games": "Spellen",
+    "help": "Hulp",
+    "wallet": "Storting",
+    "wallet_open_demo": "Demo",
+    "wallet_real": "Echt",
+    "wallet_demo": "Demo",
+    "chat": "Chat",
+    "admin": "Dashboard",
+    "bonus": "Promoties",
+    "bonus_short": "Bonus",
+    "theme": "Thema",
+    "profile": "Profiel",
+    "logout": "Uitloggen",
+    "invest": "Bankroll",
+    "casino": "Casino",
+    "sport": "Sport",
+    "esport": "eSport",
+    "view_in_fiat": "Bekijken in EUR"
+  },
+  "sidebar": {
+    "all_games": "Spellen",
+    "admin": "Dashboard",
+    "favorite": "Favoriet",
+    "recent": "Recent",
+    "originals": "Klassieke Spellen",
+    "slots": "Gokkasten",
+    "multiplayer": "Multiplayer",
+    "blackjack": "Blackjack",
+    "poker": "Poker",
+    "table": "Tafelspellen",
+    "instant": "Direct",
+    "roulette": "Roulette",
+    "baccarat": "Baccarat",
+    "evo-play": "Provider: EvoPlay",
+    "no_games": "Deze categorie is leeg",
+    "mark_as_favorite": "Markeren als favoriet",
+    "remove_from_favorite": "Verwijderen uit favorieten",
+    "phoenix": "cassie.bet",
+    "live": "Live Spellen",
+    "slot": "Gokkasten",
+    "recommended": "Aanbevolen Spellen"
+  },
+  "chat_commands": {
+    "/user": "Bekijk gebruiker",
+    "/bet": "Bekijk inzet",
+    "/ignore": "Negeer gebruiker",
+    "/unignore": "Stop met negeren gebruiker",
+    "/tip": "Geef fooi aan gebruiker",
+    "/rain": "Laat het regenen",
+    "/online": "Bekijk online gebruikers",
+    "/quiz": "Quiz",
+    "/unmute": "Schakel dempen uit voor gebruiker",
+    "modal": {
+      "rain": {
+        "amount": "Bedrag",
+        "number_of_users": "Aantal gebruikers (Max 25)",
+        "send": "Versturen",
+        "invalid_users_length": "Ongeldig aantal gebruikers",
+        "invalid_amount": "Ongeldig bedrag"
+      },
+      "tip": {
+        "amount": "Bedrag",
+        "send": "Stuur Fooi",
+        "user": "Gebruikersnaam",
+        "make_public": "Openbaar maken",
+        "invalid_name": "Ongeldige gebruikersnaam",
+        "invalid_amount": "Ongeldig bedrag",
+        "notify": "{name} heeft je {value} {currency} getipt"
+      },
+      "quiz": {
+        "question": "Vraag",
+        "answer": "Antwoord"
+      }
+    }
+  },
+  "biggest_winner_today": "GELUKKIGE WINNAARS",
+  "tip": "Fooi",
+  "tip_chat": "<a href=\"{link}\">{name}</a> heeft {value} <i class=\"{icon}\" style=\"color: {style}\"></i> gestuurd naar <a href=\"{tolink}\">{toname}</a>",
+  "or": "OF",
+  "wallet": {
+    "demo": {
+      "error": "Uw demobalans moet nul zijn",
+      "obtain": "Ontvang demobalans"
+    }
+  },
+  "demo": {
+    "title": "Let op",
+    "description": "Registratie is vereist als u voor echt geld wilt spelen.",
+    "register": "Aanmelden"
+  },
+  "chat": {
+    "enter_message": "Typ hier iets..."
+  },
+  "auth": {
+    "login": "Inloggen",
+    "register": "Registreren",
+    "through_login": "Inloggen en wachtwoord",
+    "through_social": "Sociale netwerken",
+    "wrong_credentials": "Onjuiste inloggegevens",
+    "email_or_login": "Voer uw e-mailadres of gebruikersnaam in",
+    "reset_password": "Wachtwoord opnieuw instellen",
+    "email_was_sent": "E-mail is succesvol verzonden (als de verstrekte informatie correct was). Als u het niet heeft ontvangen, controleer dan de \"Spam\"-map.",
+    "passwords_invalid_match": "Controleer uw wachtwoord opnieuw",
+    "credentials": {
+      "login": "Gebruikersnaam",
+      "password": "Wachtwoord",
+      "email": "E-mail"
+    },
+    "create_account": "Account aanmaken",
+    "forgot_password": "Wachtwoord vergeten?",
+    "auth_promo_text": "Claim Jouw €250 Welkomstbonus Nu!",
+    "notice": "Ik ben minstens 18 jaar oud en heb de Algemene Voorwaarden en het Privacybeleid gelezen en ga hiermee akkoord"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "profile": {
+    "password_changed": "Wachtwoord is gewijzigd",
+    "general": "Algemeen",
+    "login": "Inloggen",
+    "password": "Wachtwoord",
+    "password_current": "Huidig wachtwoord",
+    "password_new": "Nieuw wachtwoord",
+    "password_repeat": "Bevestig wachtwoord",
+    "password_reset": "Resetten",
+    "security": "Beveiliging",
+    "email": "E-mail",
+    "update": "Bijwerken",
+    "email_confirmed": "E-mail bevestigd",
+    "verify_email": "E-mail met bevestigingslink is naar uw adres gestuurd.",
+    "invalid_email": "Ongeldige e-mail",
+    "invalid_token": "Ongeldige bevestigingstoken",
+    "settings": "Instellingen",
+    "wager": "Ingezet",
+    "games": "Totaal aantal spellen",
+    "best_mul": "Beste uitbetaling",
+    "best_win": "Beste winst",
+    "incognito": "Dit profiel is privé",
+    "set_private_profile": "Verberg je profiel",
+    "set_private_bets": "Verberg je weddenschappen",
+    "empty": "Niet genoeg gegevens om weer te geven",
+    "privacy": "Privacy",
+    "fairness": "Eerlijkheid",
+    "client_seed": "Cliëntseed",
+    "change": "Wijzigen",
+    "change_avatar": "Avatar wijzigen",
+    "avatar": "Avatar",
+    "stats": "Statistieken",
+    "latest_games": "Laatste spellen",
+    "vip": "VIP",
+    "partner": "Affiliate programma",
+    "change_name": "Naam wijzigen",
+    "new_name": "Nieuwe naam",
+    "social": "Gekoppelde accounts",
+    "vk": "VKontakte",
+    "fb": "Facebook",
+    "google": "Google",
+    "discord": "Discord",
+    "steam": "Steam",
+    "link": "Link",
+    "linked": "Gekoppeld",
+    "somebody_already_linked": "Dit sociale netwerkaccount is al gekoppeld aan een ander cassie.bet-account",
+    "link_discord": "Om toegang te krijgen tot VIP-promocodes en rollen op de Discord-server, moet je je account koppelen.",
+    "discord_vip": "Doe mee met onze Discord-server en ontvang VIP-promocodes!",
+    "discord_vip_ok": "Rol bijwerken op de server",
+    "vip_discord_updated": "Discord-serverrol is bijgewerkt.",
+    "bets": "Weddenschappen",
+    "wins": "Overwinningen",
+    "losses": "Verliezen",
+    "wagered": "Ingezet",
+    "total_profit": "Totale winst",
+    "2fa": "2FA",
+    "keep_secure": "Laat niemand dit zien!",
+    "copy_this_to_2fa": "Kopieer deze code naar je authenticator-app (Deze code wordt vernieuwd als je de pagina vernieuwt!)",
+    "2fa_code": "Twee-factorcode",
+    "2fa_enable": "Inschakelen",
+    "error_2fa": "Ongeldige 2FA-code",
+    "2fa_enabled": "2FA is ingeschakeld op je account.",
+    "disable_2fa": "2FA uitschakelen",
+    "2fa_validate": "Valideren",
+    "2fa_description": "Voer de 6-cijferige code in van je authenticator-app voor twee factoren",
+    "2fa_digits": "{digits} cijfers over",
+    "profit": "Winst",
+    "games_c": "Spellen:",
+    "chart": {
+      "today": "Vandaag",
+      "3days": "3 dagen",
+      "1week": "1 week",
+      "1month": "1 maand",
+      "loading": "Bezig met laden..."
+    }
+  },
+  "notifications": {
+    "title": "Meldingen",
+    "withdraw_accepted": {
+      "title": "cassie.bet",
+      "message": "Uw verzoek tot betaling gemaakt {diff} ({sum} {currency}) is geaccepteerd."
+    },
+    "withdraw_declined": {
+      "title": "cassie.bet",
+      "message": "Uw verzoek tot betaling gemaakt {diff} ({sum} {currency}) is afgewezen. Reden: {reason}"
+    },
+    "vip_discord": {
+      "title": "VIP",
+      "message": "U heeft <svg style=\"width: 14px; height: 14px\"><use href=\"#vip-ruby\"></use></svg> ruby VIP-status ontvangen!"
+    },
+    "email_reminder": {
+      "title": "cassie.bet",
+      "message": "Vergeet niet uw e-mailadres toe te voegen, anders kunt u de toegang tot uw account verliezen!"
+    },
+    "deposit": "Nieuwe storting: {sum} {currency}"
+  },
+  "fairness": {
+    "client_seed": "Cliëntseed:",
+    "server_seed": "Serverseed:",
+    "nonce": "Nonce:"
+  },
+  "bet_next_round": "Wedden (Volgende ronde)",
+  "play_now": "Speel nu",
+  "become_top_player": "Niemand heeft vandaag deze plek ingenomen in de ranglijst! Word de eerste die dat doet!",
+  "lines": "Lijnen",
+  "profit_per_line": "Inzetbedrag per lijn",
+  "invalid_amount_per_line": "Ongeldige inzet per lijn",
+  "ignore": "Succesvol toegevoegd aan negerenlijst",
+  "unignore": "U negeert deze gebruiker niet meer",
+  "ignored_already": "U negeert deze gebruiker al",
+  "not_ignored": "Deze gebruiker wordt niet genegeerd",
+  "not_available": "Niet beschikbaar",
+  "obtained": "Verkregen",
+  "latest_bets": "Live",
+  "select_currency": "Selecteer Munt",
+  "strike_price": "Game Strike-prijs",
+  "non_verifiable": "U kunt dit spel niet verifiëren via Provably Fair-tools. Vergelijk in plaats daarvan de prijzen op de echte markt.",
+  "bullvsbear": {
+    "waiting_phase": "Wachtfase",
+    "bet_phase": "Wedfase",
+    "processing": "Verwerken",
+    "target": "Ik denk dat de waarde zal gaan...",
+    "up": "Omhoog",
+    "down": "Omlaag",
+    "decay_value": "Winnende uitbetaling"
+  },
+  "bets": {
+    "event": "Evenement",
+    "odds": "Kansen",
+    "game": "Spel",
+    "player": "Speler",
+    "time": "Tijd",
+    "bet": "Weddenschap",
+    "mul": "Uitbetaling",
+    "win": "Winst",
+    "manual": "Handmatig",
+    "auto": "Automatisch",
+    "games": "Aantal spellen",
+    "victory_stop": "Stop bij winst",
+    "on_win": "Bij winst",
+    "on_loss": "Bij verlies",
+    "reset": "Resetten",
+    "increase": "Verhogen",
+    "auto_games_blocked": "Om een limiet in te stellen, klik op &#8734;.",
+    "hidden": "De speler heeft zijn profiel verborgen",
+    "hidden_name": "Verborgen",
+    "make_bet": "Plaats een weddenschap",
+    "all": "Alles",
+    "mine": "Mijn weddenschappen",
+    "high_rollers": "Grote spelers",
+    "lucky_wins": "Gelukkige winnaars"
+  },
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "error": {
+      "invalid_password_confirm": "Wachtwoorden komen niet overeen",
+      "offline_node": "We kunnen momenteel geen betalingen verwerken voor deze valuta.",
+      "auth": "Autorisatie is vereist",
+      "wager": "Minimale inzet - {value}",
+      "disabled": "Het spel is tijdelijk niet beschikbaar",
+      "unknown_game": "Onbekend spel",
+      "unknown_user": "Onbekende gebruiker",
+      "invalid_wager": "Niet genoeg geld",
+      "unknown_error": "Er is een fout opgetreden (code {code})",
+      "empty": "Selecteer cellen!",
+      "should_have_empty_balance": "Om een bonus te ontvangen, moet je saldo nul zijn",
+      "autobet_pick_something": "Selecteer cellen voor de automatische biedmodus.",
+      "disabled_notifications": "Je hebt geweigerd meldingen te accepteren. Dit kan worden gewijzigd in de instellingen van je browser.",
+      "connection_lost": "Verbinding maken met de server...",
+      "connection_recovered": "Verbinding hersteld",
+      "disabled_bets": "Het accepteren van weddenschappen is momenteel niet beschikbaar.",
+      "disabled_demo_bets": "Dit spel accepteert geen weddenschappen in demomodus.",
+      "muted": "Chat is gedempt tot {time}",
+      "invalid_withdraw": "Ongeldig opnamebedrag.",
+      "only_one_withdraw": "Je hebt al een opname aangevraagd.",
+      "enter_wallet": "Voer portemonnee in!",
+      "promo_limit": "Je hebt je promocode-activatielimiet per dag bereikt.",
+      "autobet_mines_error": "Je hebt meer cellen geselecteerd dan de beschikbare kristallen.",
+      "vip_only_promocode": "Deze promotiecode is alleen beschikbaar bij VIP-status.",
+      "promo_balance_limit": "Je saldo moet lager zijn om promocodes te activeren"
+    },
+    "sportWidgetLive": {
+      "title": "Live"
+    },
+    "profit_monitoring": {
+      "title": "Statistieken",
+      "wager": "Inzet",
+      "profit": "Winst",
+      "wins": "Winsten",
+      "losses": "Verliezen",
+      "no_data": "Geen gegevens"
+    },
+    "rain": "Het regent!<br>{sum} {currency}",
+    "snow": "Het sneeuwt!<br>{sum} {currency}",
+    "quiz": "Vraag:",
+    "quiz_answer": "Correct antwoord:",
+    "quiz_user": "Gebruiker:",
+    "chart": "Grafiek",
+    "hilo-skip": "Overslaan",
+    "crash": "GEKRASHT",
+    "yes": "Ja",
+    "no": "Nee",
+    "coming_soon": "Binnenkort",
+    "reload": "Herladen",
+    "spin": "Draaien",
+    "wager": "Inzetbedrag",
+    "chip": "Chipwaarde ({value})",
+    "profit": "Winst",
+    "payout": "Uitbetaling",
+    "play": "Spelen",
+    "our_games": "Onze spellen",
+    "unit": "Eenheid",
+    "cancel": "Annuleren",
+    "undo": "Ongedaan maken",
+    "close": "Sluiten",
+    "change": "Veranderen",
+    "even": "even",
+    "odd": "oneven",
+    "to": "{1} - {2}",
+    "take": "Neem {value} {currency}",
+    "start": "Start",
+    "stop": "Stop",
+    "overview": "Bekijken",
+    "share_text": "Bekijk mijn spel op cassie.bet!",
+    "share_vk": "Deel de link op VK",
+    "share_chat": "Verstuur naar chat",
+    "share_telegram": "Deel dit spel op Telegram",
+    "share_twitter": "Deel dit spel op Twitter",
+    "share_link": "Deel de link",
+    "link_copied": "Gekopieerd!",
+    "game_mode": "Spelmodus",
+    "color": "Kleur",
+    "pins": "Aantal pinnen",
+    "autopick": "<i class=\"fas fa-wand-magic mr-1\"></i> Automatisch kiezen",
+    "clear": "Wissen",
+    "mines": "Aantal mijnen",
+    "edit": "Bewerken",
+    "add": "Toevoegen",
+    "already_purchased": "Gekocht",
+    "purchase_sticker_pack": "Koop voor {coins} <i class=\"fas fa-coins\"></i>",
+    "hilo-higher": "Hoger",
+    "hilo-lower": "Lager",
+    "hilo-same": "Gelijk",
+    "chance": "Kans",
+    "chat_at": "Typ @<strong>gebruikersnaam</strong> om de gebruiker te waarschuwen",
+    "autoStop": "Uitbetalen bij",
+    "target_payout": "Doeluitbetaling",
+    "win_chance": "Winkans",
+    "demo_popup_link": "Speel voor geld",
+    "double": "Verdubbelen",
+    "divide": "Splitsen",
+    "got": "Ontvangen",
+    "videopoker": {
+      "f_r": "Royal Flush",
+      "s_f": "Straight Flush",
+      "k": "Vier van een soort",
+      "f_h": "Full House",
+      "f": "Flush",
+      "s": "Straight",
+      "t": "Drie keer",
+      "t_p": "Twee paar",
+      "p": "Paar (J, Q, K, A)"
+    },
+    "deal": "Kaarten delen",
+    "stand": "Passen",
+    "hit": "Kaart nemen",
+    "split": "Splitsen",
+    "insurance": "Wil je verzekering?",
+    "accept": "Accepteren",
+    "decline": "Afwijzen",
+    "insurance_success": "Je hebt een verzekering gekocht.",
+    "blackjack": {
+      "0": "Gelijkspel",
+      "1": "Je verliest",
+      "2": "Je hebt gewonnen",
+      "3": "Je hebt gewonnen",
+      "4": "Je verliest",
+      "5": "Je hebt gewonnen",
+      "6": "Je verliest"
+    },
+    "difficulty": {
+      "title": "Moeilijkheidsgraad",
+      "low": "Laag",
+      "medium": "Gemiddeld",
+      "high": "Hoog"
+    },
+    "baccarat": {
+      "player": "Speler",
+      "tie": "Gelijkspel",
+      "pair_player": "{P} Paar",
+      "pair_banker": "{B} Paar",
+      "pair": "Paar",
+      "banker": "Bankier",
+      "empty": "Word eerst - plaats een inzet"
+    },
+    "verify": "Verifiëren",
+    "black": "Zwart",
+    "red": "Rood",
+      "green": "Groen",
+      "yellow": "Geel",
+      "blue": "Blauw"
+},
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"help": {
+  "header_title": "Hoe kunnen we u helpen?",
+  "faq": "Veelgestelde vragen",
+  "modal": {
+    "title": "Ondersteuning",
+    "page": {
+      "index": {
+        "title": "\uD83C\uDF89 Hallo!",
+        "description": "Welkom! Laat ons weten als we ergens mee kunnen helpen.",
+        "my_chats": "Mijn Chats",
+        "menu": {
+          "ask_question": "Live Chat",
+          "general_questions": "Bekijk FAQ",
+          "moderate": "Modereren"
+        }
+      },
+      "live_chat": {
+        "welcome_message": "Ons ondersteuningsteam staat altijd klaar om uw vragen te beantwoorden.",
+        "bot": "Automatisch antwoord"
+      }
+    }
+  }
+},
+"invest": {
+  "sidebar": {
+    "your_bankroll": "Uw Bankroll",
+    "your_share": "Uw Aandelen",
+    "your_investing_profit": "Uw Winst",
+    "site_bankroll": "Site Bankroll",
+    "site_profit": "Site Winst",
+    "amount": "Bedrag (Min {min})",
+    "invest": "Investeer",
+    "site_fee_taken": "Vergoeding afgetrokken van de Site Winst",
+    "all_time_high": "Site Winst All Time High"
+  },
+  "history": {
+    "amount": "Investering",
+    "your_share": "Uw Deel",
+    "profit": "Huidige",
+    "status": "Status",
+    "cancelled": "Geannuleerd",
+    "disinvest": "Desinvesteren",
+    "dead": "Verloren"
+  },
+  "your_balance": "Uw saldo: {balance}",
+  "min": "Minimale bedrag: {min}",
+  "invest": "Investeer",
+  "invest_fee": "<span>1%</span> van uw storting wordt ingehouden als niet-terugvorderbare vergoeding.",
+  "invest_fee_withdraw": "<span>{value}%</span> commissie wordt ingehouden bij uw opname.",
+  "tabs": {
+    "overview": "Overzicht",
+    "invest": "Investeer",
+    "history": "Geschiedenis"
+  }
+},
+"partner": {
+  "tabs": {
+    "overview": "Overzicht",
+    "list": "Affiliates",
+    "analytics": "Analyse"
+  },
+  "overview": {
+    "guest_content": "<p>Adverteer cassie.bet en verdien geld door deel te nemen aan ons partnerprogramma!</p><p>U ontvangt verschillende bonussen voor elke actieve gebruiker die zich registreert en speelt op cassie.bet via uw link.</p>",
+    "content": "<p>Adverteer cassie.bet en verdien geld door deel te nemen aan ons partnerprogramma!</p><p>U ontvangt verschillende bonussen voor elke actieve gebruiker die zich registreert en speelt op cassie.bet via uw link.</p><strong class=\"mt-2\">Verwijslink</strong><input readonly class=\"mt-2\" style=\"cursor: pointer !important;\" id=\"link\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"Kopieer link\" value=\"https://cassie.bet/?c={id}\">",
+    "header": "Wat u krijgt voor deelname aan het partnerprogramma:",
+    "1": "1. U ontvangt % van de storting van uw affiliate, gebaseerd op uw VIP-niveau.",
+    "2": "2. Uw affiliate ontvangt een gratis bonus in BTC na registratie.",
+    "3": "3. U ontvangt ook een bonus van uw affiliate als hij actief is. U kunt dit volgen via het tabblad \"Affiliates\".",
+    "4": "4. Elke 10 actieve affiliates zullen u een bonusspin opleveren met verhoogde beloningen."
+  },
+  "list": {
+    "name": "Naam",
+    "activity": "Activiteitsbonus ontvangen"
+  },
+  "analytics": {
+    "referrals": "<strong>Aantal affiliates:</strong> {count}",
+    "referrals_bonus": "<strong>Actieve affiliates:</strong> {count}"
+  }
+},
+"policy": {
+  "gaming_policy": "Dit bestand kan worden bewerkt in /resources/lang/nl/nl.json",
+  "privacy_notice": "Dit bestand kan worden bewerkt in /resources/lang/nl/nl.json",
+  "privacy_policy": "Dit bestand kan worden bewerkt in /resources/lang/nl/nl.json",
+  "terms_and_conditions": "Dit bestand kan worden bewerkt in /resources/lang/nl/nl.json"
+},
+"wallet": {
+  "tabs": {
+    "deposit": "Storting",
+    "withdraw": "Opname",
+    "history": "Geschiedenis",
+    "deposits": "Stortingen",
+    "withdraws": "Opnames",
+    "exchange": "Wisselkantoor"
+  },
+  "exchange": "Wisselkantoor",
+  "exchange_success": "Succes!",
+  "set_email": "Stel een e-mail in uw profiel in om deze betaalmethode te gebruiken.",
+  "bank": {
+    "title": "Bankstorting",
+    "description": "Verificatieverzoek succesvol verzonden. U kunt de status ervan bekijken in het tabblad \"Geschiedenis\" -> \"Stortingen\".",
+    "transfer_here": "Stort geld op dit banknummer:",
+    "bank_check": "Verificatieverzoek",
+    "transaction_id": "Transactie-id",
+    "notify": "Na voltooiing van de overdracht, klik op de knop \"Verificatieverzoek\".<br>Onze operators zullen uw transactie controleren en handmatig geld aan uw account toevoegen.<br>Deze betaalmethode is <strong>niet</strong> direct.",
+    "invalid_txid": "Ongeldige transactie-id",
+    "already_have_one_in_moderation": "U heeft al een verificatieverzoek in behandeling.",
+    "cancelled": "Verificatieverzoek voor bankstorting is geannuleerd"
+  },
+
+
+
+
+
+
+
+
+
+
+"s": {
+"amount": "Stortingsbedrag",
+"deposit": "Storting",
+"invalid_amount": "Ongeldig bedrag",
+"conversion_rate": "Wisselkoers: {usd} USD = {token} <i class=\"{icon}\" style=\"color: {style}\"></i>"
+},
+"pending": "In behandeling",
+"method": "Betaalmethode:",
+"troubles": "Hulp nodig?<br>Neem contact op met ons <a href=\"mailto:support@cassie.bet\">ondersteuningsteam</a>",
+"fast": "Je wordt direct op de hoogte gesteld zodra je een storting hebt gedaan en je kunt het aantal bevestigingen van je transactie bekijken",
+"deposit": {
+"address": "Je {currency} stortingsadres",
+"confirmations": "Stuur alleen {currency} naar dit adres, {confirmations} bevestiging(en) vereist.",
+"sum": "Bedrag",
+"go": "Storting maken"
+},
+"withdraw": {
+"title": "Opnemen",
+"amount": "Bedrag (Min {min} {currency})",
+"button": "Opnemen",
+"fee": "Er wordt {fee} {currency} van je resterende saldo afgetrokken voor de transactiekosten.",
+"method": "Opnamemethode:",
+"enter_wallet": "Portemonnee:",
+"wallet": "Portemonnee",
+"go": "Opnemen",
+"content": "Opname is succesvol besteld. Je kunt de status ervan controleren in het gedeelte \"Geschiedenis\".",
+"vip_content": "<div class=\"mt-2\">Omdat je VIP-niveau <svg style=\"width: 14px; height: 14px;\"><use href=\"#vip-gold\"></use></svg> is, is je verzoek als eerste in de wachtrij geplaatst.</div>"
+},
+"history": {
+"empty": "Geschiedenis is leeg.",
+"name": "Valuta",
+"not_paid": "Niet betaald",
+"sum": "Bedrag",
+"date": "Datum",
+"status": "Status",
+"confirmations": "bevestigingen",
+"id": "ID: :id",
+"paid": "Succesvol",
+"wallet": "Adres: {wallet}",
+"cancel": "Annuleren",
+"withdraw_cancelled": "Betaling is geannuleerd.",
+"withdraw_status": {
+  "moderation": "Moderatie",
+  "accepted": "Succesvol",
+  "declined": "Afgewezen",
+  "reason": "Reden:",
+  "cancelled": "Geannuleerd door gebruiker"
+}
+},
+"copy": "Kopieer",
+"copied": "Gekopieerd!"
+},
+"404": {
+"title": "Sorry, deze pagina is niet beschikbaar.",
+"subtitle": "De link die je hebt gevolgd, is mogelijk verbroken of de pagina is verwijderd."
+},
+"sport": {
+"unavailable": "Sportsbook is op dit moment niet beschikbaar. Onze excuses voor het ongemak.",
+"noMarkets": "Momenteel zijn er geen markten beschikbaar.",
+"widgetUnavailable": "Livestream is op dit moment niet beschikbaar voor dit spel.",
+"liveStream": "Livestream",
+"accept_all_odds_changes": "Accepteer alle veranderingen in kansen",
+"emptyCategoryTitle": "Er zijn op dit moment geen evenementen live",
+"live_events": "Live-evenementen",
+"game_not_found": "Evenement is voorbij of bestaat niet",
+"game_is_closed": "Wedden is gesloten",
+"bet_slip": "Wedbriefje",
+"register_to_bet": "Registreer om te wedden",
+"bet": "Weddenschap",
+"single": "Enkelvoudig",
+"multi": "Meervoudig",
+"no_odds_changes": "Geen geaccepteerde wijzigingen in kansen",
+"estimate_payout": "Geschatte uitbetaling",
+"empty_bet_slip_title": "Weddenschapslip is leeg.",
+"empty_bet_slip_subtitle": "Klik op de kansen om een weddenschap toe te voegen",
+"total_bet": "Totale inzet",
+"total_odds": "Totale kansen",
+"odds_change": "Kansen gewijzigd: {odds}",
+"accept": "Accepteren",
+"decline": "Afwijzen",
+"not_enough_balance": "Niet genoeg saldo",
+"error": "Er is een fout opgetreden. Probeer het over een paar seconden opnieuw.",
+"created": "Weddenschappen zijn succesvol geplaatst!",
+"my_bets": "Mijn weddenschappen",
+"ongoing": "In behandeling",
+"finished": "Voltooid",
+"no_bets_title": "Geen weddenschappen in deze categorie.",
+"index_welcome": "Voeg sportweddenschappen toe aan je website.",
+"lets_bet": "Bekijk",
+"casino_welcome": "Welkom bij cassie.bet.",
+"no_category_events_slider": "Geen {category} evenementen zijn op dit moment live.",
+"outcome": {
+"refund": "Terugbetaald",
+"win": "Winst",
+"lose": "Verlies"
+},
+"live": "Live",
+"line": "Lijn",
+"market": {
+"esport": {
+  "matchWinnerTwoWay": "Wedstrijdwinnaar - tweeweg",
+  "matchWinnerThreeWay": "Wedstrijdwinnaar - drieweg",
+  "correctMatchScore": "Correcte wedstrijdscore",
+  "mapWinnerThreeway": "Kaart {map} winnaar - drieweg",
+  "mapWinnerTwoway": "Kaart {map} winnaar - tweeweg",
+  "awayWinsAtLeastOneMap": "uit wint ten minste één kaart",
+  "homeWinsAtLeastOneMap": "thuis wint ten minste één kaart"
+},
+"sport": {
+  "1x2": "1x2",
+  "bothTeamsToScore": "Beide teams scoren",
+  "doubleChance": "Dubbele kans",
+  "drawNoBet": "Gelijkspel niet wedden",
+  "correctScore": "Correcte score",
+  "winner": "Winnaar",
+  "exactSets": "Exacte sets",
+  "setWinner": "Set {set} - winnaar",
+  "1x2Period": "Periode {period} - 1x2",
+  "1x2Half": "Half {half} - 1x2",
+  "halfBothTeamsToScore": "Half {half} - Beide teams scoren",
+  "halfDrawNoBet": "Half {half} - Gelijkspel niet wedden",
+  "halfCorrectScore": "Half {half} - Correcte score",
+  "halfExactGoals": "Half {half} - Exacte doelpunten",
+  "halfTotal": "Half {half} - Totaal",
+  "halfOddEven": "Half {half} - Oneven/even",
+  "halfDoubleChance": "Half {half} - Dubbele kans",
+  "periodBothTeamsToScore": "Periode {period} - Beide teams scoren",
+  "periodDrawNoBet": "Periode {period} - Gelijkspel niet wedden",
+  "periodCorrectScore": "Periode {period} - Correcte score",
+  "periodExactGoals": "Periode {period} - Exacte doelpunten",
+  "periodTotal": "Periode {period} - Totaal",
+  "periodOddEven": "Periode {period} - Oneven/even",
+  "periodDoubleChance": "Periode {period} - Dubbele kans",
+  "whichTeamToScore": "Welk team scoort",
+  "playerExactGoals": "{player} exacte doelpunten",
+  "playerToWin": "{player} om te winnen",
+  "playerTotal": "{player} totaal",
+  "oddEven": "Oneven/even",
+  "exactGoals": "Exacte doelpunten",
+  "total": "Totaal"
+},
+"yes": "ja",
+"no": "nee",
+"odd": "oneven",
+"even": "even"
+}
+},
+"leaderboard": {
+"type": {
+"today": "Vandaag",
+"week": "Wekelijks",
+"month": "Maandelijks",
+"allTime": "Altijd"
+}
+}
+}

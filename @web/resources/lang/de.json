@@ -1,0 +1,1350 @@
+{
+  "walletModal": {
+  "title": "Brieftasche",
+  "titleHistory": "Brieftasche - Verlauf",
+  "tabs": {
+  "deposit": "Einzahlen",
+  "buyCrypto": "Kaufen Sie BTC mit iDEAL oder Kreditkarte",
+  "withdraw": "Abheben",
+  "promocode": "Promocode"
+  },
+  "historyTabs": {
+  "deposits": "Einzahlungen",
+  "withdraws": "Abhebungen"
+  },
+  "buyCryptoInfo": "Für Beträge über €60 können Sie mit iDEAL oder einer Kreditkarte bezahlen. Für niedrigere Beträge ist nur die Zahlung mit einer Kreditkarte möglich. Die BTC-Wallet-Adresse wird automatisch ausgefüllt. Sobald die Zahlung abgeschlossen ist, wird der Betrag Ihrem Guthaben gutgeschrieben. Bei Fragen oder Problemen können Sie sich gerne an uns wenden. Wir sind bereit, Ihnen zu helfen.",
+  "depositInfo": "Dies ist Ihre persönliche Zahlungsadresse. Alle Zahlungen werden automatisch Ihrem Guthaben hinzugefügt. Verzögerungen können durch Netzwerküberlastung oder niedrige Transaktionsgebühren auftreten. In einigen Fällen kann es bis zu 15 Minuten länger dauern, nachdem die Zahlung abgeschlossen ist. Bei Fragen oder Problemen können Sie sich gerne an uns wenden. Wir sind bereit, Ihnen zu helfen.",
+  "enter": "Senden",
+  "address": "Einzahlungsadresse",
+  "loading": "Laden...",
+  "copy": "Kopieren",
+  "amount": "Einzahlungsbetrag",
+  "withdrawAmount": "Betrag",
+  "withdrawAddress": "Abhebungsadresse",
+  "creating": "Erstellen...",
+  "deposit": "Einzahlen",
+  "withdraw": "Abheben",
+  "withdrawNotes": {
+  "title": "Abhebeanweisungen",
+  "1": "Anzahl der Abhebungen auf dem aktuellen VIP-Level: {amount}",
+  "2": "Abhebungsgebühren: {fee}%",
+  "3": "Monatlicher kostenloser Abhebungsbetrag:",
+  "4": "Mindestabhebungsbetrag: {min}",
+  "5": "Maximaler Abhebungsbetrag: {max}",
+  "6": "Abholzeit: 11:00 - 19:00",
+  "7": "Auszahlungszeit: von 5 Minuten bis 24 Stunden."
+  },
+  "status": "Du kannst den Status deiner Einzahlungen im Konto-Center einsehen."
+  },
+  "faucet": {
+  "spin": "<b>Glückliches Drehen</b><span>DREHE UND ERHALTE EINEN GRATISBONUS!</span>",
+  "btn": "Jetzt Drehen",
+  "timeout": "Komm in 8 Stunden zurück für eine neue Chance!"
+  },
+  "userModal": {
+  "joined": "Beigetreten am {date}",
+  "wagered": "Eingesetzt",
+  "totalGames": "Gesamtanzahl der Spiele"
+  },
+  "third-party": {
+  "unavailable_currency": "Entschuldigung, aber du kannst mit dieser Währung nicht spielen.",
+  "guest": "Du musst dich einloggen, um dieses Spiel zu spielen."
+  },
+  "vip": {
+  "totalDeposits": "Gesamt eingezahlt",
+  "totalWagered": "Gesamt eingesetzt",
+  "logged": {
+  "title": "Dein VIP-Level ist",
+  "level": "Level {level}",
+  "deposit": "Einzahlung",
+  "bet": "Wette",
+  "description": "Ein Upgrade auf VIP {level} erfordert:",
+  "dep": "Einzahlung",
+  "full": "Vollständiger VIP-Bonus",
+  "desc2": "Das VIP-Level-System besteht aus 10 Leveln, jedes mit einem entsprechenden Geldpreis. Je mehr du spielst, desto höher ist dein VIP-Level und desto mehr wirst du erhalten.",
+  "totalBet": "Kumuliertes Einsatzvolumen",
+  "totalDeposit": "Kumuliertes Einzahlungsvolumen",
+  "steps": {
+  "1": "Platziere eine Wette in einem Spiel und die Engine berechnet automatisch den Rückgabewert basierend auf deinem VIP-Level, während du das Spiel genießt.",
+  "2": "Der Cashback-Mechanismus wird um 0:00 Uhr basierend auf deinen während des Tages platzierten Wetten auf dein Konto gutgeschrieben.",
+  "3": "Je mehr du spielst, desto höher ist dein Cashback."
+  }
+},
+  "title": "Viele Vorteile mit",
+  "title2": "Rangsystem",
+  "benefits": {
+  "1": {
+  "title": "Niveaus & Belohnungen",
+  "description": "Je mehr du spielst, desto mehr gewinnst du"
+  },
+  "3": {
+  "title": "EXKLUSIVE PROMOTIONEN",
+  "description": "Erreiche einen höheren Rang, um einzigartige Vorteile freizuschalten"
+  },
+  "4": {
+  "title": "VIP-CLUB",
+  "description": "Werde Mitglied der VIP-Club und erhalte exklusive Boni"
+  }
+  },
+  "how": {
+  "1": "Wie funktioniert es?",
+  "2": "Du beginnst deine Spielreise ab Rang 1. Je mehr du spielst, desto höher ist dein Rang. Es steigt basierend auf dem während des Spielens gesetzten Betrag."
+  },
+  "youCanReach": {
+  "1": "DU KANNST 10 LEVEL ERREICHEN",
+  "2": "Erreiche das höchste Level, um alle Vorteile der Plattform freizuschalten. Bleib bei uns für das beste Spielerlebnis und exzellenten Service."
+  },
+  "allLevels": {
+  "levelProtection": "Niveauschutz",
+  "levelProtectionDeposit": "Einzahlung {amount}/Monat",
+  "level": "Niveau {level}",
+  "oneTimeBonus": "Einmaliger Bonus",
+  "maxWithdrawal": "Maximale Abhebungssumme",
+  "privileges": "Abhebungsprivilegien",
+  "withdraws": "Abhebungen",
+  "fee": "Abhebungsgebühren",
+  "depositFeeRef": "Einzahlungsgebühren Verweis",
+  "claim": "Bonus einfordern",
+  "yourLevel": "Dein Niveau",
+  "about": {
+  "title": "ÜBER DIE VIP-CLUB",
+  "description": "Bleib bei uns für das beste Spielerlebnis und einen hohen Servicestandard!",
+  "sub": "Mitglied der VIP-Club zu sein bedeutet Zugang zu:",
+  "features": {
+  "1": "Persönlicher VIP-Manager",
+  "2": "Einblicke",
+  "4": "Wöchentliche und monatliche Boni",
+  "5": "Weitere zusätzliche Vorteile"
+  }
+  }
+  },
+  "steps": {
+  "playNow": "Jetzt spielen",
+  "1": {
+  "title": "ANMELDEN",
+  "description": "Nutze ein vereinfachtes Anmeldesystem, um das volle Spielerlebnis zu genießen"
+  },
+  "2": {
+  "title": "SPIELE LIEBLINGSSPIELE",
+  "description": "Genieße das Spielen, erhalte das beste Spielerlebnis und einen hohen Servicestandard!"
+  },
+  "3": {
+  "title": "ERHÖHE DEINEN RANG",
+  "description": "Steige zum nächsten Rang auf! Jeder Rang hat seinen eigenen Bonus und noch mehr Möglichkeiten!"
+}
+}
+},
+  "bonus": {
+  "no_vk": "Verbinde VK-Konto, um einen kostenlosen Bonus zu erhalten!",
+  "link": "Verbinden",
+  "join_group": "Tritt unserer VK-Gruppe bei, um einen kostenlosen Bonus zu erhalten!",
+  "join": "Beitreten",
+  "lucky_spin_everyday": "Glücksdreh Jeden Tag",
+  "have_a_try": "Probiere es jetzt",
+  "spin_now": "Jetzt drehen",
+  "next_spin": "Nächster Dreh: ",
+  "vip": {
+  "title": "VIP",
+  "unavailable_description": "Alle Teilnehmer des VIP-Programms haben Anspruch auf einen wöchentlichen Bonus."
+  },
+  "wheel": {
+  "description": "Drehe das Rad alle 3 Minuten für einen kostenlosen Bonus!",
+  "title": "Rad"
+  },
+  "promo": {
+  "description": "Hast du einen Promocode? Löse ihn ein und erhalte einen Bonus!",
+  "activate": "Aktivieren",
+  "title": "Promocode",
+  "placeholder": "Code",
+  "success": "Erfolg",
+  "invalid": "Ungültiger Code",
+  "expired_time": "Ungültiger Code.",
+  "expired_usages": "Ungültiger Code: Aktivierungslimit überschritten.",
+  "used": "Du hast diesen Code bereits verwendet."
+  },
+  "partner": {
+  "title": "Partnerprogramm",
+  "description": "Lade deine Freunde zu casino.democasino.click ein und erhalte einen Bonus für 10 aktive Empfehlungen!"
+  },
+  "rain": {
+  "description": "Alle paar Stunden gibt es im Chat ein Event, das einen Bonus an zufällige Personen verteilt.",
+  "title": "Regen",
+  "modal_description": "Regen ist ein Chatbot, der Münzen an zufällige Personen verteilt. <br> Kriterien, um beim Regen dabei zu sein:<ul class=\"mt-2\"><li>Eine Einzahlung ist innerhalb der letzten 24 Stunden erforderlich</li><li>Der Bot sendet eine zufällige Anzahl von Münzen zu einer zufälligen Zeit (die minimale Anzahl an Verteilungen ist 10 pro Tag, das Maximum ist 20)</li><li>Anzahl der Personen - von 5 bis 15</li></ul>"
+  },
+  "discord": {
+  "title": "Discord",
+  "common_desc": "Tritt unserem Discord-Server bei und erhalte einen Bonus!",
+  "description": "Tritt unserem Discord-Server bei und erhalte einen Bonus!",
+  "redirect": "Konto verbinden",
+  "link": "Um einen Bonus zu erhalten, musst du:<ul><li>Dein Discord-Konto verbinden</li><li>Unserem Discord-Server beitreten</li></ul>Nachdem du dein Discord-Konto verbunden und dem Server beigetreten bist, kehre zu dieser Seite zurück und klicke auf die \"Verifizieren\"-Schaltfläche.",
+  "subscribe": "Tritt unserem Discord-Server bei, um einen Bonus zu erhalten.<br>Nach dem Beitritt klicke auf die \"Verifizieren\"-Schaltfläche und der Bonus wird sofort gutgeschrieben!",
+  "check": "Verifizieren",
+  "redirect_group": "Tritt unserem Discord-Server bei",
+  "success": "Erfolg!",
+  "error": {
+  "1": "Du bist unserem Discord-Server nicht beigetreten.",
+  "2": "Du hast diesen Bonus bereits erhalten."
+  }
+},
+"notifications": {
+  "title": "Benachrichtigungen",
+  "description": "Aktiviere Benachrichtigungen und sei einer der Ersten, der über Updates von casino.democasino.click informiert wird!"
+}
+},
+"chat": {
+"service": {
+"channel_change": "Kanal geändert zu: {channel}",
+"channel_casino": "Casino ({lang})",
+"channel_sport": "Sport ({lang})",
+"channel_esport": "eSport ({lang})"
+},
+"error": {
+"length": "Nachricht ist zu kurz oder zu lang",
+"muted": "Chat ist stummgeschaltet"
+}
+},
+"dice": {
+"lower": "Niedriger",
+"higher": "Höher",
+"chance": "Chance"
+},
+"error": {
+"code": "Interner Serverfehler aufgetreten ({code})",
+"wait_finish": "Warte, bis das Spiel beendet ist",
+"validation": {
+"required": "Dieses Feld ausfüllen",
+"min": {
+"string": "Wert ist zu klein"
+},
+"max": {
+"string": "Wert ist zu groß"
+},
+"unique": "Dieser Wert ist bereits registriert",
+"regex": "Ungültiger Wert"
+},
+"invalid_browser": "<h1>Dein Webbrowser ist veraltet.</h1>Um auf casino.democasino.click zu spielen, musst du auf die neueste Version upgraden.",
+"no_js": "<h1>Fehler</h1>Dein Webbrowser unterstützt kein JavaScript."
+},
+"fairness": {
+"title": "Fairness",
+"tabs": {
+"calculator": "Rechner"
+},
+"calculator": {
+"game": "Spiel",
+"client_seed": "Client seed",
+"nonce": "Nonce",
+"server_seed": "Server seed",
+"result": "Ergebnis"
+}
+},
+  "game_help": {
+    "next": "Weiter",
+    "close": "Schließen",
+    "dice": {
+      "1": "Stelle den Schieberegler für die Gewinnchance ein und klicke auf 'Spielen', um ein Ergebnis von 0 - 100 zu generieren",
+      "2": "Wenn die Würfel in deiner gewählten grünen Zone landen, gewinnst du!"
+    },
+    "wheel": {
+      "1": "Wähle einen Spielmodus, setze auf eine Farbe und drücke auf 'Spielen'",
+      "2": "Wenn das Rad auf dem von dir gewählten Farbfeld stoppt, gewinnst du!"
+    },
+    "x50": {
+      "1": "Wähle einen Spielmodus, setze auf eine Farbe und drücke auf 'Spielen'",
+      "2": "Wenn das Rad auf dem von dir gewählten Farbfeld stoppt, gewinnst du!"
+    },
+    "plinko": {
+      "1": "Setze einen Einsatz, wähle die Spielschwierigkeit und die Anzahl der Pins, und klicke auf 'Spielen'",
+      "2": "Je komplexer das Spiel und die Anzahl der Pins, desto höher die maximalen und niedrigeren minimalen Gewinnchancen",
+      "3": "Deine Belohnung wird durch das Gewinnverhältnis bestimmt, je nachdem, wo der Ball landet"
+    },
+    "keno": {
+      "1": "Wähle 1 bis 10 Felder mit Zahlen, setze einen Einsatz und klicke auf 'Spielen'",
+      "2": "Das System wählt dann zufällig 10 Zahlen aus. Je mehr Treffer du auf deinen Zahlen hast, desto höher ist der Gewinn!"
+    },
+    "mines": {
+      "1": "Setze einen Einsatz, wähle die Anzahl der Bomben und klicke auf 'Spielen'",
+      "2": "Je mehr Bomben auf dem Spielfeld sind, desto höher das Gewinnverhältnis.",
+      "3": "Suche nach Steinen, aber hüte dich vor den Bomben!",
+      "4": "Nimm einen Gewinn, bevor du auf eine Bombe triffst und deinen Einsatz verlierst!"
+    },
+    "diamonds": {
+      "1": "Erhalte die beste Diamantkombination, um zu gewinnen.",
+      "2": "Die beste Kombination sind 5 identische Diamanten.",
+      "3": "Die Kombinationen sind ähnlich wie beim traditionellen Poker."
+    },
+    "coinflip": {
+      "1": "Setze einen Einsatz und klicke auf 'Spielen' und rate, welche Farbe fallen wird.",
+      "2": "Du kannst eine Münze unbegrenzt oft pro Spiel raten, alle Koeffizienten werden addiert."
+    },
+    "blackjack": {
+      "1": "Setze einen Einsatz, dann erhalten du und der Dealer zwei Karten.",
+      "2": "Dann kannst du eine weitere Karte nehmen oder aufhören und deine aktuelle Hand behalten.",
+      "3": "Durch Klicken auf 'Verdoppeln' verdoppelst du deinen Einsatz und nimmst die letzte Karte.",
+      "4": "Versicherung ist nur verfügbar, wenn die erste Karte des Dealers ein Ass ist und schützt dich vor einer Blackjack-Hand des Dealers.",
+      "5": "Der Gewinner ist derjenige, der am nächsten an 21 ist. Wenn du und der Dealer den gleichen Wert haben, endet es unentschieden."
+    },
+    "roulette": {
+      "1": "Setze Chips auf ein beliebiges Ergebnis des Spiels und klicke auf 'Spielen'",
+      "2": "Wenn du das Ergebnis des Spiels richtig geraten hast, multiplizierst du deinen Einsatz."
+    },
+    "baccarat": {
+      "1": "Du kannst auf den Sieg eines Spielers, des Bankiers oder auf ein Unentschieden wetten, sowohl einzeln als auch in jeder Kombination.",
+      "2": "Der Sieg wird von der Partei erreicht, die die meisten Punkte nahe 9 hat. Bei einem Wert von 10 oder mehr wird nur die zweite Ziffer der zweistelligen Zahl berücksichtigt.",
+      "3": "Wenn bei einer Einzelwette auf einen Spieler oder einen Bankier beide Parteien die gleiche Punktzahl erreichen, endet es unentschieden ohne Verlust des Einsatzes.",
+      "4": "Der maximale Deal in einer Hand sind 3 Karten. Das Minimum sind 2, wenn ihre Gesamtpunktzahl 5 oder mehr beträgt."
+    },
+    "hilo": {
+      "1": "Rate, ob die nächste Karte höher oder niedriger als die vorherige in Bezug auf den Rang sein wird.",
+      "2": "Öffne eine unbegrenzte Anzahl von Karten, die Chancen werden addiert. Du kannst jederzeit aufhören und deinen Gewinn einziehen"
+    },
+    "limbo": {
+      "1": "Um zu gewinnen, muss die angegebene Zielauszahlung niedriger sein als die, die im Spiel fiel.",
+      "2": "Das maximale Zielverhältnis beträgt 1.000.000."
+    },
+    "crash": {
+      "1": "Setze einen Einsatz, klicke auf 'Spielen' und beobachte, wie das Diagramm wächst",
+      "2": "Nimm dein Geld heraus, bevor das Diagramm zusammenbricht und du deinen Einsatz verlierst."
+    },
+    "stairs": {
+      "1": "Setze einen Einsatz, wähle die Anzahl der Steine pro Zug und klicke auf 'Spielen'",
+      "2": "Steige die Treppe hinauf, sei vorsichtig mit herabfallenden Steinen! Je höher du steigst, desto größer wird die Belohnung sein.",
+      "3": "Du kannst jederzeit einen Gewinn mitnehmen oder alle 13 Züge durchlaufen und die maximale Belohnung erhalten."
+    },
+    "tower": {
+      "1": "Setze einen Einsatz, wähle die Anzahl der Bomben und klicke auf 'Spielen'",
+      "2": "Suche nach Steinen, die sich von oben nach unten bewegen, aber hüte dich vor Bomben!",
+      "3": "Nimm einen Gewinn, bevor du auf eine Bombe triffst und deinen Einsatz verlierst!"
+    },
+    "videopoker": {
+      "1": "Setze einen Einsatz und klicke auf 'Spielen'",
+      "2": "Dann erhältst du 5 Karten. Du kannst die Karten, die du benötigst, behalten, indem du darauf klickst. Um das Spiel zu beenden, klicke auf 'Karten geben'",
+      "3": "Wenn die Kombination der Karten der in der Tabelle gezeigten entspricht, gewinnst du und vervielfachst deinen Einsatz."
+    },
+    "bullvsbear": {
+      "1": "Jedes Spiel beginnt damit, dass der 'Strike Price' des Spiels durch den Durchschnitt der ausgewählten Münze bestimmt wird. Wir verwenden kein Preisorakel, sondern holen den Marktpreis direkt aus der Coinbase Price Websocket API. Diese Zahl wird von Händlern verwendet, um in der nächsten Phase gegen sie zu wetten und vorherzusagen, ob der Marktpreis am Ende jedes Spiels über oder unter dem 'Strike Price' des Spiels liegt.",
+      "2": "Sobald der 'Strike Price' des Spiels festgelegt ist, haben die Spieler eine Minute Zeit, um zu wetten, ob der Marktpreis am Ende jedes Spiels über oder unter dieser Zahl liegen wird. Alle Wetten werden in zwei Pools platziert: diejenigen, die vorhersagen, dass der Preis höher sein wird, und diejenigen, die vorhersagen, dass der Preis niedriger sein wird.",
+      "3": "Am Ende jedes Spiels werden die verlierenden Wetten gesammelt und proportional unter den Gewinnern verteilt. Wenn ein Spieler mehr wettet als die anderen Gewinner, erhält er oder sie mehr vom Pool. Wenn ein Spieler verliert, sind seine Verluste auch proportional zur Höhe seines Einsatzes, was bedeutet, dass ein Spieler, der mehr wettet als die anderen Spieler, in dieser Situation nicht seinen gesamten Einsatz verliert, sondern nur einen Bruchteil.",
+      "4": "Wir wollten vermeiden, dass Spätkommer einen signifikanten Vorteil haben, daher haben wir einen zeitabnehmenden Gewinnfaktor implementiert, um frühzeitige Wetten zu fördern - frühe Wettende erhalten bessere Gewinne (oder Gewinne) und es wird entmutigt, spät in der Runde zu wetten. Als Händler kannst du auf die aktuelle Volatilität achten und deine Wette etwas länger abwarten und weniger Gewinn erzielen, aber mit höherer Wahrscheinlichkeit, oder alternativ früh wetten mit höherem potenziellem Gewinn, aber geringerer Gewinnwahrscheinlichkeit.",
+      "5": "Jede Einsatzrunde dauert 90 Sekunden und beginnt mit einer Auszahlung von x5.00. Diese nimmt im Laufe der Zeit ab, bis sie x1.01 erreicht."
+    }
+  },
+  "footer": {
+    "affiliates": "Partnerprogramme",
+    "features": {
+      "title": "Funktionen",
+      "affiliates": "Partnerprogramme",
+      "referral": "Empfehlungen",
+      "promotions": "Promotionen",
+      "daily": "Tägliche Boni",
+      "sport": "Sport",
+      "liveSport": "Live Sport",
+      "more": "Mehr",
+      "fairness": "Fairness",
+      "privacy": "Datenschutzbestimmungen",
+      "terms": "Nutzungsbedingungen",
+      "support": "Live-Support"
+    },
+    "legal": "Diese Website bietet Spielerlebnisse mit Risiken. Um Benutzer unserer Seite zu sein, musst du älter als 18 Jahre sein. Wir sind nicht verantwortlich für Verstöße gegen lokale Gesetze in Bezug auf i-Gaming. Spiel verantwortungsbewusst und genieße casino.democasino.click.",
+    "copy": "Dieses Online-Casino wird betrieben von casino.democasino.click N.V., gegründet unter den Gesetzen von Curaçao mit der Registrierungsnummer 160102 und registriert in Scharlooweg 39, Willemstad, Curaçao. casino.democasino.click N.V. ist lizenziert und reguliert durch die Curacao Gaming Authority unter der Lizenznummer 365/JAZ, Unterlizenz GLH-OCCHKTW0703232022, ausgestellt an Curaçao eGaming, autorisiert und reguliert durch die Regierung von Curaçao. Es liegt in der alleinigen Verantwortung des Spielers, sich über die geltenden Gesetze und Vorschriften der jeweiligen Gerichtsbarkeit für Online-Glücksspiele zu informieren. Für weitere Informationen kannst du @Athenian auf Telegram kontaktieren."
+  },
+
+
+
+
+
+
+  
+    "promotions": {
+      "vip": {
+        "title": "<span>Exklusiver</span> VIP-Bonus",
+        "description": "Als Dank an alle casino.democasino.click-Nutzer ist das VIP-Belohnungssystem nun eröffnet. Solange du die Anforderungen erfüllst, kannst du großzügige Boni erhalten!",
+        "activity": "<span>Aktivitäts</span> Anforderungen",
+        "activity2": "Spieler, die auf ein neues VIP-Level aufsteigen, erhalten einen kostenlosen Bonus ohne Auszahlungsanforderungen.",
+        "bonus": "Event-Bonus",
+        "bonus2": "Spieler können entsprechende Belohnungen erhalten, wenn sie das VIP-Level erreichen.",
+        "vip": "VIP",
+        "vip2": "VIP {level}",
+        "reminder": {
+          "1": "Spezielle Erinnerung",
+          "2": "Jeder Spieler kann den entsprechenden Bonus für jedes Upgrade erhalten, und der Bonus kann überschrieben werden."
+        },
+        "reminder2": {
+          "1": "<span>Detaillierte</span> Beschreibung",
+          "2": "Sorge für die Genauigkeit und Einzigartigkeit deines Namens, deiner Kontaktdaten und CPF. Wenn derselbe Spieler verschiedene Netzwerk-IP-Adressen verwendet, um mehrere Konten zu registrieren und Boni zu erhalten, wird dies als Betrug betrachtet und dein Konto wird dauerhaft eingefroren."
+        },
+        "reminder3": {
+          "1": "<span>Anweisungen</span> zur Teilnahme am Event:",
+          "2": "Ab dem Tag der Ankündigung des Events kannst du den Bonus nur erhalten, wenn du dein VIP-Level upgrade."
+        }
+      },
+      "invite": {
+        "title": "<span>Lade</span> Freunde ein, um gemeinsam Reichtum zu schaffen",
+        "description": "Werde einer unserer Top-Partner und erziele ein monatliches Einkommen von 100.000 €",
+        "desc": "Empfehlungsprogramm",
+        "desc2": "Mache die Welt mit casino.democasino.click bekannt - empfehle mehr Menschen und verdiene viel Geld, mit mehr Chancen, dein Einkommen zu erhöhen.",
+        "code": "Erhalte einen einzigartigen Empfehlungscode",
+        "copy": "Code kopieren",
+        "1": "Wenn du ein Blogger oder Influencer mit einem großen Publikum und Followern bist, haben wir spezielle Belohnungen für dich! (Affiliate-Programm mit den höchsten Empfehlungsbelohnungen)",
+        "2": "Wichtiger Hinweis: Nur Benutzer, die die Anfrage des Administrators bestanden haben und genehmigt wurden, können am Programm teilnehmen",
+        "consult": "Beratung",
+        "invited": "Eingeladen:",
+        "totalBet": "Gesamtwette:",
+        "totalDeposit": "Gesamteinzahlung:"
+      },
+      "benefits": {
+        "title": "<span>Millionen</span> Vertriebsvorteile",
+        "description": "Um alle casino.democasino.click-Nutzer zu ermutigen, werden Millionen von Vorteilen kompetenten Agenten angeboten, die die Anforderungen erfüllen, um einen großzügigen Bonus zu erhalten.",
+        "activity": {
+          "1": "Aktivitätsanforderungen",
+          "2": "Agenten, die neue Nutzer mit einer gültigen Einzahlung einladen, erhalten einen Superbonus für die Einladung."
+        },
+        "bonus": {
+          "1": "Event-Bonus",
+          "2": "Agenten können auch zusätzliche Belohnungen erhalten, wenn sie verschiedene Empfehlungslevels erreichen."
+        },
+        "table": {
+          "title": "Leistungsbonus",
+          "active": "Aktive Nutzer",
+          "bonus": "Leistungsbonus",
+          "desc": "<span>Aktive Nutzer:</span> über deinen Einladungslink registriert und eingezahlt. Wenn du die erforderliche Anzahl aktiver Nutzer erreichst, erhältst du einen zusätzlichen Bonus. Je mehr Gäste du hast, desto größer der Bonus.",
+          "reminder": {
+            "1": "Spezielle Erinnerung",
+            "2": "Ohne Auszahlungsanforderungen gilt: Je mehr Nutzer Agenten einladen und aufladen, desto höher ist der Rang und desto größer sind die Vorteile."
+          },
+          "details": {
+            "1": "Details",
+            "2": "Sorge für die Genauigkeit und Einzigartigkeit deines Namens, einzigartigem CPF. Wenn derselbe Makler verschiedene Netzwerk-IP-Adressen verwendet, um mehrere Konten zu registrieren und Boni zu erhalten, wird dies als Betrug betrachtet und dein Konto wird dauerhaft eingefroren."
+          }
+        },
+        "guide": {
+          "1": "ANLEITUNG ZUR TEILNAHME AM EVENT",
+          "2": "Von der Ankündigungsdatum bis zur Verleihung des Preises von einer Million Reais an Boni. Die offiziellen Kampagnenregeln liegen vollständig in den Händen von casino.democasino.click."
+        }
+      },
+      "bonus50": {
+        "title": "<span>Komm</span> und erhalte 50% Bonus!",
+        "description": "Um dir für dein Vertrauen und deine Unterstützung bei casino.democasino.click zu danken, gibt dir casino.democasino.click einen kostenlosen Bonus von 50% des Betrags deiner ersten erfolgreichen Einzahlung von mehr als 100 €. Ich wünsche dir aufrichtig, mehr zu verdienen! Dein Bonus wird automatisch auf dein Konto gutgeschrieben, wenn du eine Einzahlung tätigst, also überprüfe das System auf Nachrichten, die an dich gesendet wurden.",
+        "title2": "Anforderungen und Bonus",
+        "limit": {
+          "1": "Einzahlungslimit",
+          "2": "100 € ODER MEHR"
+        },
+        "bonus": {
+          "1": "Bonus",
+          "2": "50% des Einzahlungsbetrags"
+        },
+        "rules": "Regeln",
+        "list": {
+          "1": "Nur die erste Bestellung mit einem Einzahlungsbetrag von 100 € oder mehr kann an diesem Event teilnehmen, und dieses Event kann nur einmal besucht werden.",
+          "2": "Auszahlungsbedingungen: Der effektive Einsatzbetrag ist gleich oder größer als das 20-fache oder mehr des gesamten Einzahlungsbetrags und des Bonusbetrags.",
+          "3": "Nach Abschluss der Einzahlung und Einreichung des Antrags im persönlichen Promotionszentrum erhältst du den Glücksbonus von casino.democasino.click und die Boni können gespielt und ausgezahlt werden!",
+          "4": "Sorge dafür, dass dein Name, deine Kontaktdaten und deine Bürgerdienstnummer genau und einzigartig sind. Wenn derselbe Spieler verschiedene Netzwerk-IP-Adressen verwendet, um mehrere Konten zu registrieren und den Preis zu beanspruchen, wird dies als Betrug betrachtet und ihr Konto wird dauerhaft eingefroren."
+        }
+      }
+    },
+    "general": {
+      "popular": "Beliebt",
+      "viewAll": "Alle ansehen",
+      "search": "Suchen...",
+      "providers": "Spielanbieter",
+      "go_to_casino": "Zum Casino",
+      "go_to_sport": "Zum Sport",
+      "deposit_btn": "Einzahlen",
+      "casino_desc": "Willkommen bei casino.democasino.click. 17 Spiele für dein Vergnügen und Gewinn.",
+      "slowmode": "Langsamer Modus ist aktiviert: 1 Nachricht alle 5 Sekunden",
+      "nocrypto": "Kein Krypto? Kein Problem! Kaufe jetzt und spiele sofort!",
+      "buy_now": "Jetzt kaufen",
+      "recommended_games": "Empfohlene Spiele",
+      "all_slots": "Alle Spielautomaten",
+      "all_live": "Alle Live-Spiele",
+      "all_originals": "Alle klassischen Spiele",
+      "provider_games": "Alle Spiele und Anbieter",
+      "banner_card": {
+      "welcome_title": "Willkommensbonus",
+      "welcome_subtitle": "Zahle €100 in Krypto ein und erhalte sofort deinen Willkommensbonus von €250!",
+      "no_verification_title": "Keine ID-Verifizierung",
+      "no_verification_subtitle": "Spiele anonym ohne ID-Verifizierung und genieße die Vorteile verbesserter Privatsphäre und vollständiger Diskretion.",
+      "fast_payouts_title": "Schnelle Auszahlungen",
+      "fast_payouts_subtitle": "Erhalte deine Gewinne blitzschnell mit unseren schnellen Auszahlungen, ohne zusätzliche Gebühren."
+    },
+      "slider": {
+        "slider_terms": "Lies die Bedingungen",
+        "slider_guest_btn": "Registriere & Erhalte 250 €",
+        "slider_user_btn": "Zahle 500 € ein & Erhalte sofort 250 € Bonus",
+        "slider_1_title": "Fordere jetzt deinen 250 € Willkommensbonus!",
+        "slider_1_desc": "Beginne mit einem Willkommensbonus von €250 bei deiner ersten Einzahlung von €100 in Krypto, die direkt deinem Guthaben hinzugefügt wird!",
+        "slider_2_title": "Wage mehr Glück und Spannung bei casino.democasino.click!",
+        "slider_2_desc": "Mit unserer umfangreichen Auswahl an Spielen und einer lebendigen Community bieten wir dir eine Plattform voller Glück und Spannung. Wage noch heute dein Glück und entdecke, warum das Glück immer auf deiner Seite steht bei casino.democasino.click!",
+        "slider_3_title": "Entdecke unvergleichliche Gewinnchancen mit unserem hohen RTP!",
+        "slider_3_desc": "Bei uns dreht sich alles um Fairness und Transparenz. Entdecke unsere Spiele mit einem hohen Return to Player (RTP) Prozentsatz, wodurch du mehr Chancen hast, bei jedem Dreh oder Einsatz zu gewinnen!",
+        "slider_4_title": "Genieße unsere umfangreiche Auswahl an Casinospielen!",
+        "slider_4_desc": "Entdecke hunderte spannende Casinospiele, darunter Slots, Roulette und mehr!"
+      },
+      "promotions": {
+        "title": "casino.democasino.click Werbeaktionen",
+        "faucet": {
+          "title": "Faucet",
+          "description": "Erhalten Sie einen kostenlosen Bonus, um auf casino.democasino.click zu spielen!",
+          "btn": "Ansehen"
+        },
+        "promo": {
+          "title": "Promocode",
+          "description": "Geben Sie einen Promocode ein, um einen kostenlosen Bonus zu erhalten!",
+          "btn": "Ansehen"
+        },
+        "vip": {
+          "title": "casino.democasino.click VIP",
+          "description": "Erhalten Sie VIP-Status, indem Sie einfach auf casino.democasino.click spielen.",
+          "btn": "Ansehen"
+        },
+        "rain": {
+          "title": "Rain",
+          "description": "Wenn Sie eine Einzahlung mit beliebiger Geldmenge tätigen, haben Sie die Chance, innerhalb von 24 Stunden einen Bonus zu erhalten.",
+          "btn": "Mehr erfahren"
+        },
+        "notification": {
+          "title": "Discord",
+          "description": "Treten Sie unserem Discord-Server bei und erhalten Sie einen Bonus!",
+          "btn": "Beitreten"
+        },
+        "affiliates": {
+          "title": "Affiliates",
+          "description": "Werbung für casino.democasino.click bei Ihren Freunden, um Belohnungen zu erhalten (für Sie und Ihre Freunde!).",
+          "btn": "Ansehen"
+        }
+      },
+      "privacy_policy": {
+        "title": "Datenschutzrichtlinie",
+        "introduction": "Willkommen bei casino.democasino.click. Wir legen großen Wert auf den Schutz der Privatsphäre unserer Benutzer und verpflichten uns, Ihre persönlichen Daten zu schützen. Diese Datenschutzrichtlinie erläutert, wie wir Ihre Daten erfassen, verwenden, speichern und schützen, wenn Sie unsere Dienste nutzen.",
+        "sections": {
+          "data_collection": {
+            "title": "1. Datensammlung",
+            "description": "Wir erfassen verschiedene Arten von Daten, um unsere Dienste bereitzustellen und zu verbessern:",
+            "items": {
+              "personal_data": {
+                "title": "Persönliche Daten",
+                "description": "Informationen, die Sie bei der Registrierung eines Kontos angeben, wie Name, E-Mail-Adresse, Geburtsdatum und Adresse."
+              },
+              "transaction_data": {
+                "title": "Transaktionsdaten",
+                "description": "Daten zu den Einzahlungen und Auszahlungen, die Sie über unsere Plattform tätigen."
+              },
+              "technical_data": {
+                "title": "Technische Daten",
+                "description": "Informationen wie IP-Adresse, Browsertyp und Gerätekennung, die automatisch erfasst werden, wenn Sie unsere Website besuchen."
+              }
+            }
+          },
+          "data_use": {
+            "title": "2. Datenverwendung",
+            "description": "Wir verwenden Ihre Daten, um:",
+            "items": [
+              "Ihr Konto zu verwalten und unsere Dienste bereitzustellen.",
+              "Transaktionen zu verarbeiten und zu sichern.",
+              "Unsere Website und Dienste zu verbessern.",
+              "Gesetzliche Verpflichtungen zu erfüllen.",
+              "Mit Ihnen zu kommunizieren, einschließlich der Zusendung von Werbeaktionen und Updates."
+            ]
+          },
+          "data_protection": {
+            "title": "3. Datenschutz",
+            "description": "Wir ergreifen angemessene technische und organisatorische Maßnahmen zum Schutz Ihrer persönlichen Daten vor unbefugtem Zugriff, Verlust oder Missbrauch. Dazu gehören die Verschlüsselung sensibler Daten und sichere Speicherlösungen."
+          },
+          "data_sharing": {
+            "title": "4. Datenweitergabe",
+            "description": "Wir geben Ihre persönlichen Daten nicht an Dritte weiter, außer:",
+            "items": [
+              "Wenn es zur Bereitstellung unserer Dienste erforderlich ist (z.B. Zahlungsabwickler).",
+              "Um gesetzlichen Verpflichtungen nachzukommen.",
+              "Mit Ihrer Zustimmung."
+            ]
+          },
+          "your_rights": {
+            "title": "5. Ihre Rechte",
+            "description": "Sie haben das Recht:",
+            "items": [
+              "Zugang zu Ihren persönlichen Daten zu verlangen.",
+              "Falsche oder unvollständige Daten korrigieren zu lassen.",
+              "Unter bestimmten Bedingungen die Löschung Ihrer Daten zu beantragen.",
+              "Der Verarbeitung Ihrer Daten zu widersprechen."
+            ]
+          },
+          "cookies": {
+            "title": "6. Cookies",
+            "description": "Unsere Website verwendet Cookies, um Ihre Erfahrung zu verbessern. Cookies sind kleine Textdateien, die auf Ihrem Gerät gespeichert werden. Sie können Ihre Browsereinstellungen so anpassen, dass Cookies abgelehnt werden, was jedoch die Funktionalität unserer Website beeinträchtigen kann."
+          },
+          "policy_changes": {
+            "title": "7. Änderungen der Datenschutzrichtlinie",
+            "description": "Wir behalten uns das Recht vor, diese Datenschutzrichtlinie jederzeit zu ändern. Wir werden Sie über wesentliche Änderungen durch eine Mitteilung auf unserer Website oder über andere Kommunikationskanäle informieren."
+          },
+          "contact": {
+            "title": "8. Kontakt",
+            "description": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben oder Ihre Daten verwalten möchten, kontaktieren Sie uns bitte unter @Athenian auf Telegram."
+          }
+        }
+      },
+      "welcome_bonus": {
+        "title": "Bedingungen für den €250 Willkommensbonus",
+        "conditions": [
+          "Um für den €250 Willkommensbonus berechtigt zu sein, müssen Sie eine Mindesteinzahlung von €100 tätigen.",
+          "Der Bonus wird automatisch Ihrem Kontostand hinzugefügt, sobald die Einzahlung abgeschlossen ist. Beachten Sie bitte: Der €250 Bonus ist ausschließlich Spielgeld und kann nicht direkt ausgezahlt werden.",
+          "Dieser Bonus ist auf eine pro Person, Haushalt, IP-Adresse und E-Mail-Adresse beschränkt.",
+          "Der Willkommensbonus kann nicht mit anderen Werbeaktionen kombiniert werden.",
+          "Es gelten Umsatzbedingungen, bevor Gewinne aus dem Bonus ausgezahlt werden können. Bitte beachten Sie unsere Allgemeinen Geschäftsbedingungen für weitere Informationen.",
+          "Das Casino behält sich das Recht vor, diese Werbeaktion jederzeit ohne vorherige Ankündigung zu ändern oder zurückzuziehen."
+        ]
+      },
+      "terms_and_conditions": {
+        "title": "Allgemeine Geschäftsbedingungen",
+        "introduction": "Willkommen bei casino.democasino.click. Diese Allgemeinen Geschäftsbedingungen ('AGB') gelten für die Nutzung unserer Website und Dienste. Durch die Erstellung eines Kontos und die Nutzung unserer Dienste stimmen Sie diesen Bedingungen zu. Bitte lesen Sie sie sorgfältig durch.",
+        "sections": {
+          "acceptance_of_terms": {
+            "title": "1. Akzeptanz der Bedingungen",
+            "description": "Durch die Erstellung eines Kontos bei casino.democasino.click stimmen Sie diesen Bedingungen zu und bestätigen, dass Sie mindestens 18 Jahre alt sind (oder das gesetzliche Alter in Ihrer Gerichtsbarkeit erreicht haben)."
+          },
+          "account_registration": {
+            "title": "2. Kontoerstellung",
+            "description": "Sie müssen genaue und vollständige Informationen bei der Registrierung eines Kontos angeben. Sie sind dafür verantwortlich, die Vertraulichkeit Ihrer Kontodaten und alle Aktivitäten, die unter Ihrem Konto stattfinden, zu wahren."
+          },
+          "use_of_website": {
+            "title": "3. Nutzung der Website",
+            "description": "Sie erklären sich damit einverstanden, die Website nur zu legalen Zwecken und in Übereinstimmung mit diesen Bedingungen zu nutzen. Die Verwendung der Website für betrügerische oder illegale Aktivitäten ist untersagt."
+          },
+          "deposits_and_withdrawals": {
+            "title": "4. Einzahlungen und Auszahlungen",
+            "description": "Alle Einzahlungen und Auszahlungen müssen in den auf unserer Website verfügbaren Kryptowährungen erfolgen. casino.democasino.click ist nicht verantwortlich für Verluste oder Schäden aufgrund von Wechselkursschwankungen."
+          },
+          "bonuses_and_promotions": {
+            "title": "5. Boni und Werbeaktionen",
+            "description": "Alle Boni und Werbeaktionen unterliegen spezifischen Bedingungen, die auf den Seiten der Werbeaktionen beschrieben sind. casino.democasino.click behält sich das Recht vor, Boni und Werbeaktionen jederzeit ohne vorherige Ankündigung zu ändern oder zurückzuziehen."
+          },
+          "wagering_requirements": {
+            "title": "6. Umsatzbedingungen",
+            "description": "Für bestimmte Boni gelten Umsatzbedingungen. Diese Bedingungen müssen erfüllt werden, bevor Gewinne ausgezahlt werden können. Bitte beachten Sie die Seiten der Werbeaktionen für spezifische Details."
+          },
+          "responsible_gambling": {
+            "title": "7. Verantwortungsvolles Spielen",
+            "description": "Wir fördern verantwortungsvolles Spielen. Wenn Sie Hilfe bei der Kontrolle Ihres Spielverhaltens benötigen, wenden Sie sich bitte an unseren Kundenservice für Unterstützung und Informationen zu Selbstsperre und anderen Ressourcen."
+          },
+          "intellectual_property": {
+            "title": "8. Geistiges Eigentum",
+            "description": "Alle Inhalte auf der Website, einschließlich Text, Bilder, Logos und Software, sind Eigentum von casino.democasino.click und durch Urheberrecht und andere geistige Eigentumsrechte geschützt. Sie dürfen diese Inhalte ohne unsere ausdrückliche Genehmigung nicht kopieren, verteilen oder ändern."
+          },
+          "limitation_of_liability": {
+            "title": "9. Haftungsbeschränkung",
+            "description": "casino.democasino.click haftet nicht für direkte, indirekte, zufällige oder Folgeschäden, die aus Ihrer Nutzung der Website oder Dienste entstehen. Wir stellen unsere Dienste 'wie sie sind' bereit und geben keine Garantien jeglicher Art ab."
+          },
+          "changes_to_terms": {
+            "title": "10. Änderungen der Bedingungen",
+            "description": "Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu ändern. Wesentliche Änderungen werden wir Ihnen durch eine Mitteilung auf unserer Website oder über andere Kommunikationsmethoden bekannt geben. Durch die fortgesetzte Nutzung unserer Dienste stimmen Sie den überarbeiteten Bedingungen zu."
+          },
+          "termination": {
+            "title": "11. Kündigung",
+            "description": "Wir behalten uns das Recht vor, Ihr Konto zu sperren oder zu kündigen, wenn Sie gegen diese Bedingungen verstoßen oder betrügerische oder illegale Aktivitäten ausüben."
+          },
+          "governing_law": {
+            "title": "12. Rechtsordnung",
+            "description": "Diese Bedingungen unterliegen dem Recht von [Gerichtsstand]. Streitigkeiten werden den zuständigen Gerichten in [Gerichtsstand] vorgelegt."
+          },
+          "contact": {
+            "title": "Kontakt",
+            "description": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter @Athenian auf Telegram."
+          }
+        }
+      },
+
+  "head": {
+    "index": "Home",
+    "description": "Online-Glücksspiel mit Boni für neue Spieler",
+    "games": "Spiele",
+    "help": "Hilfe",
+    "wallet": "Ein- & Auszahlung",
+    "wallet_open_demo": "Demo",
+    "wallet_real": "Echtgeld",
+    "wallet_demo": "Demo",
+    "chat": "Chat",
+    "admin": "Dashboard",
+    "bonus": "Aktionen",
+    "bonus_short": "Bonus",
+    "theme": "Thema",
+    "profile": "Profil",
+    "logout": "Ausloggen",
+    "invest": "Bankroll",
+    "casino": "Casino",
+    "sport": "Sport",
+    "esport": "eSport",
+    "view_in_fiat": "In USD anzeigen"
+  },
+  "sidebar": {
+    "all_games": "Spiele",
+    "admin": "Dashboard",
+    "favorite": "Favoriten",
+    "recent": "Neu",
+    "originals": "Klassische Spiele",
+    "slots": "Slots",
+    "multiplayer": "Mehrspieler",
+    "blackjack": "Blackjack",
+    "poker": "Poker",
+    "table": "Tischspiele",
+    "instant": "Instant",
+    "roulette": "Roulette",
+    "baccarat": "Baccarat",
+    "evo-play": "Anbieter: EvoPlay",
+    "no_games": "Diese Kategorie ist leer",
+    "mark_as_favorite": "Als Favorit markieren",
+    "remove_from_favorite": "Aus Favoriten entfernen",
+    "phoenix": "casino.democasino.click",
+    "live": "Live-Spiele",
+    "slot": "Slot-Spiele",
+    "recommended": "Empfohlene Spiele"
+  },
+  "chat_commands": {
+    "/user": "Benutzer anzeigen",
+    "/bet": "Wette anzeigen",
+    "/ignore": "Benutzer ignorieren",
+    "/unignore": "Benutzer nicht mehr ignorieren",
+    "/tip": "Benutzer tippen",
+    "/rain": "Rain-Funktion",
+    "/online": "Online-Benutzer anzeigen",
+    "/quiz": "Quiz",
+    "/unmute": "Stummschaltung aufheben",
+    "modal": {
+      "rain": {
+        "amount": "Betrag",
+        "number_of_users": "Anzahl der Benutzer (max. 25)",
+        "send": "Senden",
+        "invalid_users_length": "Ungültige Anzahl von Benutzern",
+        "invalid_amount": "Ungültiger Betrag"
+      },
+      "tip": {
+        "amount": "Betrag",
+        "send": "Tipp senden",
+        "user": "Benutzername",
+        "make_public": "Öffentlich machen",
+        "invalid_name": "Ungültiger Benutzername",
+        "invalid_amount": "Ungültiger Betrag",
+        "notify": "{name} hat Ihnen {value} {currency} getippt"
+      },
+      "quiz": {
+        "question": "Frage",
+        "answer": "Antwort"
+      }
+    }
+  },
+  "biggest_winner_today": "GLÜCKLICHE GEWINNER",
+  "tip": "Tipp",
+  "tip_chat": "<a href=\"{link}\">{name}</a> hat {value} <i class=\"{icon}\" style=\"color: {style}\"></i> an <a href=\"{tolink}\">{toname}</a> gesendet",
+  "or": "ODER",
+  "wallet": {
+    "demo": {
+      "error": "Ihr Demo-Guthaben muss bei null sein",
+      "obtain": "Demo-Guthaben erhalten"
+    }
+  },
+  "demo": {
+    "title": "Achtung",
+    "description": "Eine Registrierung ist erforderlich, wenn Sie mit echtem Guthaben spielen möchten.",
+    "register": "Registrieren"
+  },
+  "chat": {
+    "enter_message": "Hier etwas eingeben..."
+  },
+  "auth": {
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "through_login": "Anmeldung und Passwort",
+    "through_social": "Soziale Netzwerke",
+    "wrong_credentials": "Falsche Anmeldedaten",
+    "email_or_login": "Geben Sie Ihre E-Mail-Adresse oder Ihren Benutzernamen ein",
+    "reset_password": "Passwort zurücksetzen",
+    "email_was_sent": "Die E-Mail wurde erfolgreich versendet (sofern die bereitgestellten Informationen korrekt waren). Falls Sie sie nicht erhalten haben, überprüfen Sie den \"Spam\"-Ordner.",
+    "passwords_invalid_match": "Überprüfen Sie Ihr Passwort erneut",
+    "credentials": {
+      "login": "Benutzername",
+      "password": "Passwort",
+      "email": "E-Mail"
+    },
+    "create_account": "Konto erstellen",
+    "forgot_password": "Passwort vergessen?",
+    "auth_promo_text": "Holen Sie sich jetzt Ihren €250 Willkommensbonus!",
+    "notice": "Ich bin mindestens 18 Jahre alt und habe die Allgemeinen Geschäftsbedingungen sowie die Datenschutzrichtlinie gelesen und akzeptiere sie"
+  },
+  "profile": {
+    "password_changed": "Passwort wurde geändert",
+    "general": "Allgemein",
+    "login": "Benutzername",
+    "password": "Passwort",
+    "password_current": "Aktuelles Passwort",
+    "password_new": "Neues Passwort",
+    "password_repeat": "Passwort bestätigen",
+    "password_reset": "Zurücksetzen",
+    "security": "Sicherheit",
+    "email": "E-Mail",
+    "update": "Aktualisieren",
+    "email_confirmed": "E-Mail bestätigt",
+    "verify_email": "Eine E-Mail mit Bestätigungslink wurde an Ihre Adresse gesendet.",
+    "invalid_email": "Ungültige E-Mail",
+    "invalid_token": "Ungültiger Bestätigungstoken",
+    "settings": "Einstellungen",
+    "wager": "Einsatz",
+    "games": "Gespielte Spiele",
+    "best_mul": "Beste Auszahlung",
+    "best_win": "Bester Gewinn",
+    "incognito": "Dieses Profil ist privat",
+    "set_private_profile": "Profil verbergen",
+    "set_private_bets": "Meine Wetten verbergen",
+    "empty": "Nicht genügend Daten für die Anzeige",
+    "privacy": "Privatsphäre",
+    "fairness": "Fairness",
+    "client_seed": "Client Seed",
+    "change": "Ändern",
+    "change_avatar": "Avatar ändern",
+    "avatar": "Avatar",
+    "stats": "Statistiken",
+    "latest_games": "Letzte Spiele",
+    "vip": "VIP",
+    "partner": "Partnerprogramm",
+    "change_name": "Namen ändern",
+    "new_name": "Neuer Name",
+    "social": "Verknüpfte Konten",
+    "vk": "VKontakte",
+    "fb": "Facebook",
+    "google": "Google",
+    "discord": "Discord",
+    "steam": "Steam",
+    "link": "Link",
+    "linked": "Verknüpft",
+    "somebody_already_linked": "Dieses Konto in sozialen Netzwerken wurde bereits mit einem anderen casino.democasino.click.online-Konto verknüpft",
+    "link_discord": "Um VIP-Promocodes und Rollen auf dem Discord-Server zu erhalten, müssen Sie Ihr Konto verknüpfen.",
+    "discord_vip": "Treten Sie unserem Discord-Server bei und erhalten Sie VIP-Promocodes!",
+    "discord_vip_ok": "Serverrolle aktualisieren",
+    "vip_discord_updated": "Die Discord-Serverrolle wurde aktualisiert.",
+    "bets": "Wetten",
+    "wins": "Gewinne",
+    "losses": "Verluste",
+    "wagered": "Eingesetzt",
+    "total_profit": "Gesamtgewinn",
+    "2fa": "2FA",
+    "keep_secure": "Lassen Sie niemanden dies sehen!",
+    "copy_this_to_2fa": "Kopieren Sie diesen Code in Ihre Authenticator-App (Dieser Code wird aktualisiert, wenn Sie die Seite aktualisieren!)",
+    "2fa_code": "Zwei-Faktor-Code",
+    "2fa_enable": "Aktivieren",
+    "error_2fa": "Ungültiger 2FA-Code",
+    "2fa_enabled": "2FA ist auf Ihrem Konto aktiviert.",
+    "disable_2fa": "2FA deaktivieren",
+    "2fa_validate": "Validieren",
+    "2fa_description": "Geben Sie den 6-stelligen Code aus Ihrer Zwei-Faktor-Authenticator-App ein",
+    "2fa_digits": "{digits} verbleibende Ziffern",
+    "profit": "Gewinn",
+    "games_c": "Spiele:",
+    "chart": {
+      "today": "Heute",
+      "3days": "3 Tage",
+      "1week": "1 Woche",
+      "1month": "1 Monat",
+      "loading": "Laden..."
+    }
+  },
+  "notifications": {
+    "title": "Benachrichtigungen",
+    "withdraw_accepted": {
+      "title": "casino.democasino.click.online",
+      "message": "Ihr Auszahlungsantrag erstellt {diff} ({sum} {currency}) wurde akzeptiert."
+    },
+    "withdraw_declined": {
+      "title": "casino.democasino.click.online",
+      "message": "Ihr Auszahlungsantrag erstellt {diff} ({sum} {currency}) wurde abgelehnt. Grund: {reason}"
+    },
+    "vip_discord": {
+      "title": "VIP",
+      "message": "Sie haben den <svg style=\"width: 14px; height: 14px\"><use href=\"#vip-ruby\"></use></svg> Rubin VIP-Status erhalten!"
+    },
+    "email_reminder": {
+      "title": "casino.democasino.click.online",
+      "message": "Vergessen Sie nicht, Ihre E-Mail-Adresse hinzuzufügen, sonst könnten Sie den Zugang zu Ihrem Konto verlieren!"
+    },
+    "deposit": "Neue Einzahlung: {sum} {currency}"
+  },
+  "fairness": {
+    "client_seed": "Client Seed:",
+    "server_seed": "Server Seed:",
+    "nonce": "Nonce:"
+  },
+  "bet_next_round": "Wette (Nächste Runde)",
+  "play_now": "Jetzt spielen",
+  "become_top_player": "Niemand hat heute diesen Platz auf der Bestenliste eingenommen! Werden Sie der Erste!",
+  "lines": "Linien",
+  "profit_per_line": "Einsatz pro Linie",
+  "invalid_amount_per_line": "Ungültiger Einsatzbetrag pro Linie",
+  "ignore": "Erfolgreich zur Ignorierliste hinzugefügt",
+  "unignore": "Sie ignorieren diesen Benutzer nicht mehr",
+  "ignored_already": "Sie ignorieren diesen Benutzer bereits",
+  "not_ignored": "Dieser Benutzer wird nicht ignoriert",
+  "not_available": "Nicht verfügbar",
+  "obtained": "Erhalten",
+  "latest_bets": "Live",
+  "select_currency": "Münze auswählen",
+  "strike_price": "Spiel Strike Preis",
+  "non_verifiable": "Sie können dieses Spiel nicht über Provably Fair-Tools überprüfen. Vergleichen Sie stattdessen echte Marktpreise.",
+  "bullvsbear": {
+    "waiting_phase": "Wartezeitphase",
+    "bet_phase": "Wettphase",
+    "processing": "Verarbeitung",
+    "target": "Ich denke, dass der Wert gehen wird...",
+    "up": "Hoch",
+    "down": "Runter",
+    "decay_value": "Gewinn Auszahlung"
+  },
+  "bets": {
+    "event": "Ereignis",
+    "odds": "Quoten",
+    "game": "Spiel",
+    "player": "Spieler",
+    "time": "Zeit",
+    "bet": "Wette",
+    "mul": "Auszahlung",
+    "win": "Profit",
+    "manual": "Manuell",
+    "auto": "Auto",
+    "games": "Anzahl der Spiele",
+    "victory_stop": "Stop bei Sieg",
+    "on_win": "Bei Gewinn",
+    "on_loss": "Bei Verlust",
+    "reset": "Zurücksetzen",
+    "increase": "Erhöhen",
+    "auto_games_blocked": "Um eine Grenze festzulegen, klicken Sie auf &#8734;.",
+    "hidden": "Der Spieler hat sein Profil versteckt",
+    "hidden_name": "Versteckt",
+    "make_bet": "Eine Wette platzieren",
+    "all": "Alle",
+    "mine": "Meine Wetten",
+    "high_rollers": "High Roller",
+    "lucky_wins": "Glückliche Gewinner"
+  },
+
+
+
+
+
+
+
+
+    "error": {
+      "invalid_password_confirm": "Passwortbestätigung stimmt nicht überein",
+      "offline_node": "Wir können derzeit keine Zahlungen für diese Währung verarbeiten.",
+      "auth": "Autorisierung erforderlich",
+      "wager": "Mindesteinsatz - {value}",
+      "disabled": "Das Spiel ist vorübergehend nicht verfügbar",
+      "unknown_game": "Unbekanntes Spiel",
+      "unknown_user": "Unbekannter Benutzer",
+      "invalid_wager": "Nicht genügend Guthaben",
+      "unknown_error": "Ein Fehler ist aufgetreten (Code {code})",
+      "empty": "Wählen Sie Zellen aus!",
+      "should_have_empty_balance": "Um einen Bonus zu erhalten, muss Ihr Guthaben null sein",
+      "autobet_pick_something": "Wählen Sie Zellen für den automatischen Einsatzmodus aus.",
+      "disabled_notifications": "Sie haben Benachrichtigungen abgelehnt. Dies kann in den Browsereinstellungen geändert werden.",
+      "connection_lost": "Verbindung zum Server verloren...",
+      "connection_recovered": "Verbindung wiederhergestellt",
+      "disabled_bets": "Die Annahme von Wetten ist derzeit nicht verfügbar.",
+      "disabled_demo_bets": "Dieses Spiel akzeptiert keine Wetten im Demo-Modus.",
+      "muted": "Chat ist bis {time} stummgeschaltet",
+      "invalid_withdraw": "Ungültiger Abhebungsbetrag.",
+      "only_one_withdraw": "Sie haben bereits eine Auszahlung beantragt.",
+      "enter_wallet": "Geben Sie Ihre Geldbörse ein!",
+      "promo_limit": "Sie haben Ihr Tageslimit für die Aktivierung von Aktionscodes erreicht.",
+      "autobet_mines_error": "Sie haben mehr Zellen ausgewählt als verfügbare Kristalle.",
+      "vip_only_promocode": "Dieser Aktionscode ist nur für VIP-Status verfügbar.",
+      "promo_balance_limit": "Ihr Guthaben muss niedriger sein, um Aktionscodes zu aktivieren."
+    },
+    "sportWidgetLive": {
+      "title": "Live"
+    },
+    "profit_monitoring": {
+      "title": "Statistiken",
+      "wager": "Einsatz",
+      "profit": "Gewinn",
+      "wins": "Gewinne",
+      "losses": "Verluste",
+      "no_data": "Keine Daten"
+    },
+    "rain": "Es regnet!<br>{sum} {currency}",
+    "snow": "Es schneit!<br>{sum} {currency}",
+    "quiz": "Frage:",
+    "quiz_answer": "Richtige Antwort:",
+    "quiz_user": "Benutzer:",
+    "chart": "Diagramm",
+    "hilo-skip": "Überspringen",
+    "crash": "ABSTURZ",
+    "yes": "Ja",
+    "no": "Nein",
+    "coming_soon": "Demnächst",
+    "reload": "Neu laden",
+    "spin": "Drehen",
+    "wager": "Einsatz",
+    "chip": "Chipwert ({value})",
+    "profit": "Gewinn",
+    "payout": "Auszahlung",
+    "play": "Spielen",
+    "our_games": "Unsere Spiele",
+    "unit": "Einheit",
+    "cancel": "Abbrechen",
+    "undo": "Rückgängig machen",
+    "close": "Schließen",
+    "change": "Ändern",
+    "even": "Gerade",
+    "odd": "Ungerade",
+    "to": "{1} - {2}",
+    "take": "Nimm {value} {currency}",
+    "start": "Start",
+    "stop": "Stop",
+    "overview": "Übersicht",
+    "share_text": "Schau dir mein Spiel auf casino.democasino.click an!",
+    "share_vk": "Link auf VK teilen",
+    "share_chat": "Senden in den Chat",
+    "share_telegram": "Dieses Spiel auf Telegram teilen",
+    "share_twitter": "Dieses Spiel auf Twitter teilen",
+    "share_link": "Link teilen",
+    "link_copied": "Kopiert!",
+    "game_mode": "Spielmodus",
+    "color": "Farbe",
+    "pins": "Anzahl Pins",
+    "autopick": "<i class=\"fas fa-wand-magic mr-1\"></i> Automatisch wählen",
+    "clear": "Löschen",
+    "mines": "Anzahl Minen",
+    "edit": "Bearbeiten",
+    "add": "Hinzufügen",
+    "already_purchased": "Bereits gekauft",
+    "purchase_sticker_pack": "Kaufen für {coins} <i class=\"fas fa-coins\"></i>",
+    "hilo-higher": "Höher",
+    "hilo-lower": "Niedriger",
+    "hilo-same": "Gleich",
+    "chance": "Chance",
+    "chat_at": "Tippe @<strong>Benutzername</strong>, um den Benutzer zu benachrichtigen",
+    "autoStop": "Auszahlung bei",
+    "target_payout": "Ziel-Auszahlung",
+    "win_chance": "Gewinnchance",
+    "demo_popup_link": "Für Geld spielen",
+    "double": "Verdoppeln",
+    "divide": "Teilen",
+    "got": "Erhalten",
+    "videopoker": {
+      "f_r": "Royal Flush",
+      "s_f": "Straight Flush",
+      "k": "Vier Gleiche",
+      "f_h": "Full House",
+      "f": "Flush",
+      "s": "Straight",
+      "t": "Drei Gleiche",
+      "t_p": "Zwei Paare",
+      "p": "Ein Paar (J, Q, K, A)"
+    },
+    "deal": "Karten austeilen",
+    "stand": "Stehen bleiben",
+    "hit": "Karte nehmen",
+    "split": "Teilen",
+    "insurance": "Versicherung kaufen?",
+    "accept": "Akzeptieren",
+    "decline": "Ablehnen",
+    "insurance_success": "Sie haben eine Versicherung gekauft.",
+    "blackjack": {
+      "0": "Unentschieden",
+      "1": "Du verlierst",
+      "2": "Du gewinnst",
+      "3": "Du gewinnst",
+      "4": "Du verlierst",
+      "5": "Du gewinnst",
+      "6": "Du verlierst"
+    },
+    "difficulty": {
+      "title": "Schwierigkeitsgrad",
+      "low": "Niedrig",
+      "medium": "Mittel",
+      "high": "Hoch"
+    },
+    "baccarat": {
+      "player": "Spieler",
+      "tie": "Unentschieden",
+      "pair_player": "{P} Paar",
+      "pair_banker": "{B} Paar",
+      "pair": "Paar",
+      "banker": "Bankier",
+      "empty": "Bitte zuerst setzen - platzieren Sie eine Wette"
+    },
+    "verify": "Überprüfen",
+    "black": "Schwarz",
+    "red": "Rot",
+    "green": "Grün",
+    "yellow": "Gelb",
+    "blue": "Blau"
+  },
+
+
+
+    "help": {
+      "header_title": "Wie können wir Ihnen helfen?",
+      "faq": "Häufig gestellte Fragen",
+      "modal": {
+        "title": "Unterstützung",
+        "page": {
+          "index": {
+            "title": "\uD83C\uDF89 Hallo!",
+            "description": "Willkommen! Lassen Sie uns wissen, wenn wir Ihnen behilflich sein können.",
+            "my_chats": "Meine Chats",
+            "menu": {
+              "ask_question": "Live-Chat",
+              "general_questions": "FAQ anzeigen",
+              "moderate": "Moderieren"
+            }
+          },
+          "live_chat": {
+            "welcome_message": "Unser Support-Team steht Ihnen jederzeit zur Verfügung, um Ihre Fragen zu beantworten.",
+            "bot": "Automatische Antwort"
+          }
+        }
+      }
+    },
+    "invest": {
+      "sidebar": {
+        "your_bankroll": "Ihr Bankroll",
+        "your_share": "Ihre Anteile",
+        "your_investing_profit": "Ihr Gewinn",
+        "site_bankroll": "Seiten-Bankroll",
+        "site_profit": "Seiten-Gewinn",
+        "amount": "Betrag (Min {min})",
+        "invest": "Investieren",
+        "site_fee_taken": "Gebühr von Seiten-Gewinn abgezogen",
+        "all_time_high": "Seiten-Gewinn Allzeithoch"
+      },
+      "history": {
+        "amount": "Investition",
+        "your_share": "Ihr Anteil",
+        "profit": "Aktuell",
+        "status": "Status",
+        "cancelled": "Storniert",
+        "disinvest": "Desinvestieren",
+        "dead": "Verloren"
+      },
+      "your_balance": "Ihr Guthaben: {balance}",
+      "min": "Mindestbetrag: {min}",
+      "invest": "Investieren",
+      "invest_fee": "<span>1%</span> Ihrer Einzahlung wird als nicht rückzahlbare Gebühr einbehalten.",
+      "invest_fee_withdraw": "<span>{value}%</span> Provision wird bei Ihrer Auszahlung abgezogen.",
+      "tabs": {
+        "overview": "Übersicht",
+        "invest": "Investieren",
+        "history": "Verlauf"
+      }
+    },
+    "partner": {
+      "tabs": {
+        "overview": "Übersicht",
+        "list": "Partner",
+        "analytics": "Analyse"
+      },
+      "overview": {
+        "guest_content": "<p>Werben Sie für casino.democasino.click und verdienen Sie Geld, indem Sie an unserem Partnerprogramm teilnehmen!</p><p>Sie erhalten verschiedene Boni für jeden aktiven Benutzer, der sich über Ihren Link bei casino.democasino.click registriert und spielt.</p>",
+        "content": "<p>Werben Sie für casino.democasino.click und verdienen Sie Geld, indem Sie an unserem Partnerprogramm teilnehmen!</p><p>Sie erhalten verschiedene Boni für jeden aktiven Benutzer, der sich über Ihren Link bei casino.democasino.click registriert und spielt.</p><strong class=\"mt-2\">Empfehlungslink</strong><input readonly class=\"mt-2\" style=\"cursor: pointer !important;\" id=\"link\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"Link kopieren\" value=\"https://casino.democasino.click/?c={id}\">",
+        "header": "Was Sie für die Teilnahme am Partnerprogramm erhalten:",
+        "1": "1. Sie erhalten % der Einzahlung Ihres Partners, basierend auf Ihrem VIP-Level.",
+        "2": "2. Ihr Partner erhält einen kostenlosen Bonus in BTC nach der Registrierung.",
+        "3": "3. Sie erhalten auch einen Bonus von Ihrem Partner, wenn er aktiv ist. Sie können dies im Tab \"Partner\" verfolgen.",
+        "4": "4. Jede 10 aktive Partner wird Ihnen einen Bonusdreh mit erhöhten Belohnungen bringen."
+      },
+      "list": {
+        "name": "Name",
+        "activity": "Aktivitätsbonus erhalten"
+      },
+      "analytics": {
+        "referrals": "<strong>Anzahl der Partner:</strong> {count}",
+        "referrals_bonus": "<strong>Aktive Partner:</strong> {count}"
+      }
+    },
+    "policy": {
+      "gaming_policy": "Diese Datei kann in /resources/lang/de/de.json bearbeitet werden",
+      "privacy_notice": "Diese Datei kann in /resources/lang/de/de.json bearbeitet werden",
+      "privacy_policy": "Diese Datei kann in /resources/lang/de/de.json bearbeitet werden",
+      "terms_and_conditions": "Diese Datei kann in /resources/lang/de/de.json bearbeitet werden"
+    },
+    "wallet": {
+      "tabs": {
+        "deposit": "Einzahlung",
+        "withdraw": "Abhebung",
+        "history": "Verlauf",
+        "deposits": "Einzahlungen",
+        "withdraws": "Abhebungen",
+        "exchange": "Wechselstube"
+      },
+      "exchange": "Wechselstube",
+      "exchange_success": "Erfolgreich!",
+      "set_email": "Stellen Sie eine E-Mail in Ihrem Profil ein, um diese Zahlungsmethode zu verwenden.",
+      "bank": {
+        "title": "Banküberweisung",
+        "description": "Verifizierungsanfrage erfolgreich gesendet. Sie können den Status unter \"Verlauf\" -> \"Einzahlungen\" einsehen.",
+        "transfer_here": "Geld auf dieses Bankkonto einzahlen:",
+        "bank_check": "Verifizierungsanfrage",
+        "transaction_id": "Transaktions-ID",
+        "notify": "Nach Abschluss der Überweisung klicken Sie auf die Schaltfläche \"Verifizierungsanfrage\".<br>Unsere Mitarbeiter werden Ihre Transaktion überprüfen und das Geld manuell auf Ihr Konto gutschreiben.<br>Diese Zahlungsmethode erfolgt <strong>nicht</strong> direkt.",
+        "invalid_txid": "Ungültige Transaktions-ID",
+        "already_have_one_in_moderation": "Sie haben bereits eine Verifizierungsanfrage in Bearbeitung.",
+        "cancelled": "Verifizierungsanfrage für Banküberweisung wurde storniert"
+      },
+  
+
+
+        "s": {
+          "amount": "Einzahlungsbetrag",
+          "deposit": "Einzahlung",
+          "invalid_amount": "Ungültiger Betrag",
+          "conversion_rate": "Wechselkurs: {usd} USD = {token} <i class=\"{icon}\" style=\"color: {style}\"></i>"
+        },
+        "pending": "In Bearbeitung",
+        "method": "Zahlungsmethode:",
+        "troubles": "Brauchen Sie Hilfe?<br>Kontaktieren Sie unser <a href=\"mailto:support@casino.democasino.click\">Support-Team</a>",
+        "fast": "Sie werden sofort benachrichtigt, sobald Sie eine Einzahlung getätigt haben, und Sie können die Anzahl der Bestätigungen Ihrer Transaktion einsehen",
+        "deposit": {
+          "address": "Ihre {currency}-Einzahlungsadresse",
+          "confirmations": "Senden Sie nur {currency} an diese Adresse, {confirmations} Bestätigung(en) erforderlich.",
+          "sum": "Betrag",
+          "go": "Einzahlung tätigen"
+        },
+        "withdraw": {
+          "title": "Abheben",
+          "amount": "Betrag (Min {min} {currency})",
+          "button": "Abheben",
+          "fee": "Es wird {fee} {currency} von Ihrem verbleibenden Saldo für die Transaktionsgebühren abgezogen.",
+          "method": "Abhebemethode:",
+          "enter_wallet": "Wallet:",
+          "wallet": "Wallet",
+          "go": "Abheben",
+          "content": "Die Auszahlung wurde erfolgreich beantragt. Sie können den Status im Abschnitt \"Verlauf\" überprüfen.",
+          "vip_content": "<div class=\"mt-2\">Aufgrund Ihres VIP-Status <svg style=\"width: 14px; height: 14px;\"><use href=\"#vip-gold\"></use></svg> wird Ihr Antrag bevorzugt behandelt.</div>"
+        },
+        "history": {
+          "empty": "Verlauf ist leer.",
+          "name": "Währung",
+          "not_paid": "Nicht bezahlt",
+          "sum": "Betrag",
+          "date": "Datum",
+          "status": "Status",
+          "confirmations": "Bestätigungen",
+          "id": "ID: :id",
+          "paid": "Erfolgreich",
+          "wallet": "Adresse: {wallet}",
+          "cancel": "Abbrechen",
+          "withdraw_cancelled": "Die Zahlung wurde storniert.",
+          "withdraw_status": {
+            "moderation": "Moderation",
+            "accepted": "Erfolgreich",
+            "declined": "Abgelehnt",
+            "reason": "Grund:",
+            "cancelled": "Vom Benutzer storniert"
+          }
+        },
+        "copy": "Kopieren",
+        "copied": "Kopiert!"
+      },
+      "404": {
+      "title": "Entschuldigung, diese Seite ist nicht verfügbar.",
+      "subtitle": "Der von Ihnen gefolgte Link ist möglicherweise ungültig oder die Seite wurde gelöscht."
+      },
+      "sport": {
+      "unavailable": "Das Sportbuch ist derzeit nicht verfügbar. Wir entschuldigen uns für die Unannehmlichkeiten.",
+      "noMarkets": "Derzeit sind keine Märkte verfügbar.",
+      "widgetUnavailable": "Der Livestream für dieses Spiel ist derzeit nicht verfügbar.",
+      "liveStream": "Livestream",
+      "accept_all_odds_changes": "Alle Quotenänderungen akzeptieren",
+      "emptyCategoryTitle": "Derzeit sind keine Events live",
+      "live_events": "Live-Events",
+      "game_not_found": "Das Event ist vorbei oder existiert nicht",
+      "game_is_closed": "Die Wetten sind geschlossen",
+      "bet_slip": "Wettschein",
+      "register_to_bet": "Registrieren Sie sich, um zu wetten",
+      "bet": "Wette",
+      "single": "Einzelwette",
+      "multi": "Kombiwette",
+      "no_odds_changes": "Keine akzeptierten Quotenänderungen",
+      "estimate_payout": "Geschätzte Auszahlung",
+      "empty_bet_slip_title": "Ihr Wettschein ist leer.",
+      "empty_bet_slip_subtitle": "Klicken Sie auf die Quoten, um eine Wette hinzuzufügen",
+      "total_bet": "Gesamteinsatz",
+      "total_odds": "Gesamtquoten",
+      "odds_change": "Quotenänderung: {odds}",
+      "accept": "Akzeptieren",
+      "decline": "Ablehnen",
+      "not_enough_balance": "Nicht genügend Guthaben",
+      "error": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es in ein paar Sekunden erneut.",
+      "created": "Die Wetten wurden erfolgreich platziert!",
+      "my_bets": "Meine Wetten",
+      "ongoing": "In Bearbeitung",
+      "finished": "Abgeschlossen",
+      "no_bets_title": "Keine Wetten in dieser Kategorie.",
+      "index_welcome": "Fügen Sie Sportwetten zu Ihrer Website hinzu.",
+      "lets_bet": "Ansehen",
+      "casino_welcome": "Willkommen bei casino.democasino.click.",
+      "no_category_events_slider": "Derzeit sind keine {category}-Events live.",
+      "outcome": {
+      "refund": "Rückerstattet",
+      "win": "Gewonnen",
+      "lose": "Verloren"
+      },
+      "live": "Live",
+      "line": "Linie",
+      "market": {
+      "esport": {
+        "matchWinnerTwoWay": "Spielgewinner - zweierlei",
+        "matchWinnerThreeWay": "Spielgewinner - dreierlei",
+        "correctMatchScore": "Korrekte Spielpunktzahl",
+        "mapWinnerThreeway": "Karte {map} Gewinner - dreierlei",
+        "mapWinnerTwoway": "Karte {map} Gewinner - zweierlei",
+        "awayWinsAtLeastOneMap": "Ausgewinnt mindestens eine Karte",
+        "homeWinsAtLeastOneMap": "Heimgewinnt mindestens eine Karte"
+      },
+      "sport": {
+        "1x2": "1x2",
+        "bothTeamsToScore": "Beide Teams erzielen ein Tor",
+        "doubleChance": "Doppelte Chance",
+        "drawNoBet": "Unentschieden keine Wette",
+        "correctScore": "Korrekte Punktzahl",
+        "winner": "Gewinner",
+        "exactSets": "Exakte Sätze",
+        "setWinner": "Satz {set} - Gewinner",
+        "1x2Period": "Periode {period} - 1x2",
+        "1x2Half": "Halbzeit {half} - 1x2",
+        "halfBothTeamsToScore": "Halbzeit {half} - Beide Teams erzielen ein Tor",
+        "halfDrawNoBet": "Halbzeit {half} - Unentschieden keine Wette",
+        "halfCorrectScore": "Halbzeit {half} - Korrekte Punktzahl",
+        "halfExactGoals": "Halbzeit {half} - Exakte Tore",
+        "halfTotal": "Halbzeit {half} - Gesamt",
+        "halfOddEven": "Halbzeit {half} - Ungerade/Gerade",
+        "halfDoubleChance": "Halbzeit {half} - Doppelte Chance",
+        "periodBothTeamsToScore": "Periode {period} - Beide Teams erzielen ein Tor",
+        "periodDrawNoBet": "Periode {period} - Unentschieden keine Wette",
+        "periodCorrectScore": "Periode {period} - Korrekte Punktzahl",
+        "periodExactGoals": "Periode {period} - Exakte Tore",
+        "periodTotal": "Periode {period} - Gesamt",
+        "periodOddEven": "Periode {period} - Ungerade/Gerade",
+        "periodDoubleChance": "Periode {period} - Doppelte Chance",
+        "whichTeamToScore": "Welches Team erzielt ein Tor",
+        "playerExactGoals": "{player} exakte Tore",
+        "playerToWin": "{player} zu gewinnen",
+        "playerTotal": "{player} insgesamt",
+        "oddEven": "Ungerade/Gerade",
+        "exactGoals": "Exakte Tore",
+        "total": "Gesamt"
+      },
+      "yes": "ja",
+      "no": "nein",
+      "odd": "ungerade",
+      "even": "gerade"
+      }
+      },
+      "leaderboard": {
+      "type": {
+      "today": "Heute",
+      "week": "Wöchentlich",
+      "month": "Monatlich",
+      "allTime": "Immer"
+      }
+      }
+      }
