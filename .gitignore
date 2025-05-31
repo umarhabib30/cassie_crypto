@@ -9,7 +9,7 @@
 fullchain.cert
 privkey.key
 /.letsencrypt
-
+.env
 .env.backup
 .phpunit.result.cache
 Homestead.json
